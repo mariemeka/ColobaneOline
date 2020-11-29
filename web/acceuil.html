@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Acceuil</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+        <script src="bootstrap/js/jquery-3.4.1.js"></script>
+        <script src="bootstrap/js/bootstrap.min.js"></script>
+        <script src="bootstrap/js/popper.js"></script>
+        <link href="style.css" rel="stylesheet">
+</head>
+<body>
+    <!-- header -->
+    <header>
+        <div class="row">
+            <div class="col-6 col-md-4">
+                </br>
+                <img src="img/colo.jpg" align="left" height="50">
+                <h2  contenteditable data-heading="Frozen">ColobaneOnline</h2> 
+
+            </div>
+            <div class="col-8 col-md-6">
+                </br>
+                <form action="/search" id="searchthis" method="get">
+                    <input id="search" name="q" type="text" placeholder="Que recherhez-vous?" />
+                    <input id="search-btn" type="submit" value="Rechercher" />
+                </form>
+
+            </div>
+            <div class="col-4 col-md-2">
+                </br>
+                <pre><a href="#"><img src="img/user.png" height="20" alt="compte"><strong>Compte</strong></a>  <a href="#"><img src="img/panier2.PNG" height="20" alt="panier"><STRONG>panier</STRONG></a></pre>
+             </div>
+         </div>
+    </header>
+
+
+<!-- caroussel -->
+<div class="row">
+    <div class="col">
+
+        <marquee id="id1" ><span  onmouseover="getElementById('id1').stop();" onmouseout="getElementById('id1').start();">
+            <img src="img/sport/5.jpg" WIDTH=120 HEIGHT=120>
+            <img src="img/cuisine/3.jpg" WIDTH=120 HEIGHT=120 > 
+            <img src="img/cuisine/4.jpg" WIDTH=120 HEIGHT=120 >
+            <img src="img/deco/6.jpg" WIDTH=120 HEIGHT=120 >
+            <img src="img/voiture/12.jpg" WIDTH=120 HEIGHT=120 >
+            <img src="img/ordi/12.jpg" WIDTH=120 HEIGHT=120 >
+            <img src="img/hom/1.jpg" WIDTH=120 HEIGHT=120 >
+            <img src="img/fem/1.jpg" WIDTH=120 HEIGHT=120 >
+            <img src="img/cuisine/9.jpg" WIDTH=120 HEIGHT=120 >
+            <img src="img/fem/5.jpg" WIDTH=120 HEIGHT=120 >
+            <img src="img/bureau/1.jpg" WIDTH=120 HEIGHT=120 >
+            <img src="img/fem/3.jpg" WIDTH=120 HEIGHT=120 >
+            <img src="img/cuisine/7.jpg" WIDTH=120 HEIGHT=120 >
+                <img src="img/deco/4.jpg" WIDTH=120 HEIGHT=120 >
+                <img src="img/cuisine/12.jpg" WIDTH=120 HEIGHT=120 >
+                <img src="img/26.jpg" WIDTH=120 HEIGHT=120 >
+                <img src="img/enfant/7.jpg" WIDTH=120 HEIGHT=120 >
+                <img src="img/15.jpg" WIDTH=120 HEIGHT=120>
+                <img src="img/fem/4.jpg" WIDTH=120 HEIGHT=120 >
+                <img src="img/sport/4.jpg" WIDTH=120 HEIGHT=120 >
+                <img src="img/20.jpg" WIDTH=120 HEIGHT=120 >
+                <img src="img/22.jpg" WIDTH=120 HEIGHT=120 > 
+                <img src="img/24.jpg" WIDTH=120 HEIGHT=120 >
+                <img src="img/25.jpg" WIDTH=120 HEIGHT=120 > 
+                <img src="img/27.jpg" WIDTH=120 HEIGHT=120 > 
+                <img src="img/28.jpg" WIDTH=120 HEIGHT=120 >
+                <img src="img/30.jpg" WIDTH=120 HEIGHT=120 > 
+                <img src="img/32.jpg" WIDTH=120 HEIGHT=120 >
+                <img src="img/33.jpg" WIDTH=120 HEIGHT=120 > 
+                <img src="img/31.jpg" WIDTH=120 HEIGHT=120 >
+                <img src="img/29.jpg" WIDTH=120 HEIGHT=120 > 
+                <img src="img/19.jpg" WIDTH=120 HEIGHT=120 >
+                <img src="img/18.jpg" WIDTH=120 HEIGHT=120 > 
+                <img src="img/enfant/4.jpg" WIDTH=120 HEIGHT=120 >
+            </span></marquee>
+
+    </div>
+</div>
+
+
+
+
+<!-- menu horizontal -->
+
+<nav class="navbar navbar-light bg-light navbar-expand-lg">
+    <a class="navbar-brand" href="#">Catégories</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"  aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span> </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item1 active">
+                <a class="nav-link" href="#">Accueil</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#"> <img src="img/elec3.png" WIDTH=20 HEIGHT=20 >Electroniques</a>
+                <ul class="sous">
+                    <li><a href="#">Telephones & Tablettes</a></li>
+                    <li><a href="#">Ordinateurs</a></li>
+                    <li><a href="#">Télévisions</a></li>
+                </ul>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#"><img src="img/vet2.jpg" WIDTH=22 HEIGHT=21 >Vetements</a>
+                <ul class="sous">
+                    <li><a href="#">Vetements Bébé</a></li>
+                    <li><a href="#">Vetements Femmes</a></li>
+                    <li><a href="#">Vetements Hommes</a></li>
+                </ul>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="cosmetique.html"><img src="img/cos2.png" WIDTH=20 HEIGHT=20 >Cosmétiques</a>
+                <ul class="sous">
+                    <li><a href="#">Prduits Hommes</a></li>
+                    <li><a href="#">Produis Femmes</a></li>
+
+                </ul>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#"><img src="img/elec.PNG" WIDTH=22 HEIGHT=20 >Electromenager</a>	
+                <ul class="sous">
+                    <li><a href="#">Matériel de nettoyage</a></li>
+                    <li><a href="#">Matériel de conservation</a></li>
+                    <li><a href="#">Matériel pour le froid</a></li>
+                </ul>
+
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#"><img src="img/au.png" WIDTH=20 HEIGHT=20 >Autres</a>
+                <ul class="sous">
+                    <li><a href="#">Voitures</a></li>
+                    <li><a href="#">bureau</a></li>
+                    <li><a href="#">Sport & Loisir</a></li>
+                    <li><a href="#">Décorations Maison</a></li>
+                    <li><a href="#">divers</a></li>
+                </ul>
+            </li>
+            <li class="nav-item1 ">
+                <a class="nav-link" href="#">Contact</a>
+            </li>
+            <li class="nav-item1">
+                <a class="nav-link" href="#">A propos</a>
+            </li>
+        </ul>
+    </div>
+</nav>
+
+        </br></br>
+
+        
+        
+
+    <!--    contenu        -->
+    <h3  contenteditable data-heading="Frozen">ColobaneOnline</h3> 
+    <p> est une plateforme d'achat et vente ouverte à tous qui 
+        a un espace pour les vendeurs, les acheteurs ...
+        Ce site vend des produits de toutes sortes. Des produits qui sont
+        utilisé chaque jour comme <em style="color:red;text-decoration:underline;">parexemple</em> : les produits cosmoétiques qui sont 
+        utilisé pour prendre soin de soi et de son apparence.
+        Ainsi, Colobane Online presente beaucoup d'aspects.</p>
+
+
+    <h5> <img src="img/v.png" WIDTH=20 HEIGHT=20 > très bonne qualité</h5>
+    <h5><img src="img/v.png" WIDTH=20 HEIGHT=20 > proposé par beaucoup d’autres marchands</h5>
+    <h5><img src="img/v.png" WIDTH=20 HEIGHT=20 > facile de vous en procurer</h5>
+    <h5><img src="img/v.png" WIDTH=20 HEIGHT=20 > pas compliqué à stocker </h5>
+    <h5><img src="img/v.png" WIDTH=20 HEIGHT=20 > à livrer à vos futurs clients</h5>
+
+
+
+    </br></br>
+    <div>
+        <div style="float: left; left: 0px; top: 20px; "> <a href="#"><img src="img/phone/1.jpg" alt="texte 1" width="210" height="162" /><br>SAMSUN</a></div>
+        <div style="float: left; left: 0px; top: 20px;"><a href="#"><img src="img/phone/2.jpg" alt="texte 2" width="196" height="172" /><br>SAMSUN</a></div>
+        <div style="float: left; left: 0px; top: 20px;"><a href="#"><img src="img/phone/3.jpg" alt="texte 3" width="210" height="158" /><br>SAMSUN</a></div>
+        <div style="float: left; left: 0px; top: 20px;"><a href="#"><img src="img/phone/4.jpg" alt="Vtexte 4" width="210" height="172" /><br>SAMSUN</a></div>
+    </div>
+    </br></br></br></br></br></br></br></br></br></br>
+
+
+
+
+
+
+
+
+
+        <div class="row">
+            <div class="col">
+
+                <div class="card">
+                    <form action="authentification/auten.php" method="get" target="_blank">
+                        <button  class=" button class2" type="submit"><img src="img/icon/img_auth.jpg " width="58"><br>A suivre</button></form>
+
+
+                    <center><strong><p style="color:red;"></p></strong></center>
+
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+
+        <!-- footer -->
+        <footer>
+
+            <div class="card">
+                <div class="card-header">
+                    Nouveautés
+                </div>
+                <div class="card-body">
+                    <h5 class="card-title">Toutes Neufs</h5>
+                    <p class="card-text">Produis de qualités et moins chère</p>
+                    <a href="#">photo</a>
+                </div>
+            </div>
+
+        </footer>
+
+
+
+        </body>
+        </html>

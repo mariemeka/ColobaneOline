@@ -1,0 +1,16 @@
+{
+    "elements": {
+        "div": {},
+        "p": {},
+        "nav": {},
+        "form": {},
+        "footer": {},
+        "ul": {},
+        "center": {},
+        "marquee": {},
+        "h3": {},
+        "h5": {},
+        "li": {}
+    },
+    "attributes": {}
+}

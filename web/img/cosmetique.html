@@ -1,0 +1,303 @@
+
+<!doctype html>
+<html>
+<head>
+<title>Accueil</title>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+ <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="description" content="Plateforme Prise de Rendez Vous Médicaux">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="bootstrap/css/bootstrap.min.css"rel="stylesheet">
+        <script src="bootstrap/js/jquery-3.4.1.js"></script>
+        <script src="bootstrap/js/bootstrap.min.js"></script>
+        <script src="bootstrap/js/popper.js"></script>
+<style>
+
+marquee{
+background-color: white;
+text-shadow: 3px 3px 4px red;
+text-transform: uppercase;
+font-style: italic;
+}
+#search-btn{
+color: orange;  
+letter-spacing: 1px;   
+font-size: 9px;   
+background-color: #fff;
+margin-left: 5px;
+padding: 0px 5px 10px 5px;
+}
+#search{
+padding: 0px 5px 10px 5px;
+color:orange;   
+letter-spacing: 1px; 
+font-size: 12px;   
+width:500px; height:45px;
+margin-top: -10px;
+
+}
+
+header{
+background-color: #eee;
+}
+
+.nav-item > a::after{
+    content:" ▼";
+    font-size: 12px;
+}
+
+
+/*Reset CSS*/
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Avenir, sans-serif;
+}
+
+
+ul{
+	width: 100%;
+    margin: 0 auto;
+    background-color: #eee;
+    position: sticky;
+    top: 0px;
+	text-align: center;
+    list-style-type: none;
+    display: flex;
+}
+
+ul li a{
+    flex: 0.05 0 auto;
+    text-align: center;
+    position: relative;
+	
+}
+
+ul a{
+    display: block;
+    text-decoration: none;
+    color: black;
+    border-bottom: 2px solid transparent;
+    padding: 10px 0px;
+	
+}
+
+ul a:hover{
+    color: orange;
+    border-bottom: 2px solid gold;
+}
+
+.sous{
+    display: none;
+    box-shadow: 0px 1px 2px #CCC;
+    background-color: white;
+    position: absolute;
+    width: 15%;
+    z-index: 1000;
+	top: 38px;
+}
+ul > li:hover .sous{
+    display: flex;
+   flex-flow: column;
+}
+
+.sous a{
+    padding: 10px;
+    border-bottom: none;
+}
+.sous a:hover{
+    border-bottom: none;
+    background-color: RGBa(200,200,200,0.1);
+}
+.nav-item > a::after{
+    content:" ▼";
+    font-size: 12px;
+	color: red;
+}
+
+
+h4{
+	font-size: 40px;
+	font-weight: normal;
+	text-align: center;
+	margin: 15px;
+	box-shadow: 5px 5px 10px black;
+	border-radius: 15px;
+	background-color: white;
+	
+}
+.card-header{
+color: red;
+text-decoration: underline;
+}
+
+
+
+</style>
+</head>
+
+<body>
+ <!-- header -->
+<header>
+<div class="row">
+  <div class="col-6 col-md-4">
+  </br>
+   <img src="colo.jpg" align="left" height="50px">
+<h3 contenteditable data-heading="Frozen" style=" left: 20%;
+ color: transparent; font-size: 30px; margin: 0; font-family: 'frozen', serif;
+	font-weight: 700;
+	background: url(8.jpg);
+  	-webkit-background-clip: text;
+	background-size: contain;
+	width: 100%;
+	font-weight: 900;">ColobaneOnline</h3> 
+  
+  </div>
+  <div class="col-8 col-md-6">
+  </br>
+  <form action="/search" id="searchthis" method="get">
+<input id="search" name="q" type="text" placeholder="Que recherhez-vous?" />
+<input id="search-btn" type="submit" value="Rechercher" />
+</form>
+  
+  </div>
+  <div class="col-4 col-md-2">
+  </br>
+<pre><a href="#" style="text-decoration:underline;"><img src="user.png" height="20px" alt="compte"><strong>Compte<strong></a>  <a href="#"><img src="panier2.png" height="20px" alt="panier"><STRONG>panier</STRONG></a>
+</pre>
+  </div>
+</div>
+</header>
+
+
+ <!-- caroussel -->
+ <div class="row">
+  <div class="col">
+  
+   <marquee id="id1" ><span  onmouseover="getElementById('id1').stop();" onmouseout="getElementById('id1').start();">
+ <img src="phone/1.jpg" WIDTH=120 HEIGHT=120 ><img src="ordi/2.jpg" WIDTH=120 HEIGHT=120 >
+ <img src="phone/4.jpg" WIDTH=120 HEIGHT=120 ><img src="ordi/3.jpg" WIDTH=120 HEIGHT=120 >
+ <img src="phone/2.jpg" WIDTH=120 HEIGHT=120 ><img src="ordi/2.jpg" WIDTH=120 HEIGHT=120 ><img src="phone/1.jpg" WIDTH=120 HEIGHT=120 ><img src="ordi/2.jpg" WIDTH=120 HEIGHT=120 ><img src="phone/4.jpg" WIDTH=120 HEIGHT=120 ><img src="ordi/3.jpg" WIDTH=120 HEIGHT=120 >
+ <img src="phone/2.jpg" WIDTH=120 HEIGHT=120 ><img src="ordi/2.jpg" WIDTH=120 HEIGHT=120 >
+</span></marquee>
+  
+  </div>
+  </div>
+
+
+
+
+ <!-- menu horizontal -->
+
+<nav class="navbar navbar-light bg-light navbar-expand-lg">
+  <a class="navbar-brand" href="#">Catégories</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span> </button>
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item1 active">
+        <a class="nav-link" href="acceuil.html">Accueil</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#"> <img src="elec.png" WIDTH=20 HEIGHT=20 >Electroniques</a>
+			<ul class="sous">
+			<li><a href="#">Telephones & Tablettes</a></li>
+			<li><a href="#">Ordinateurs</a></li>
+			<li><a href="#">Télévisions</a></li>
+		  </ul>
+      </li>
+	   <li class="nav-item">
+        <a class="nav-link" href="#"><img src="vet.png" WIDTH=20 HEIGHT=20 >Vetements</a>
+			<ul class="sous">
+			<li><a href="#">Vetements Bébé</a></li>
+			<li><a href="#">Vetements Femmes</a></li>
+			<li><a href="#">Vetements Hommes</a></li>
+		  </ul>
+      </li>
+	   <li class="nav-item">
+        <a class="nav-link" href="#"><img src="cos.jpg" WIDTH=20 HEIGHT=20 >Cosmétiques</a>
+			<ul class="sous">
+			<li><a href="#">Prduits Hommes</a></li>
+			<li><a href="#">Produis Femmes</a></li>
+		
+		  </ul>
+      </li>
+	   <li class="nav-item">
+        <a class="nav-link" href="#"><img src="elec2.png" WIDTH=20 HEIGHT=20 >Electromenager</a>	
+		<ul class="sous">
+			<li><a href="#">Matériel de nettoyage</a></li>
+			<li><a href="#">Matériel de conservation</a></li>
+			<li><a href="#">Matériel pour le froid</a></li>
+		  </ul>
+		 
+      </li>
+	     <li class="nav-item">
+        <a class="nav-link" href="#"><img src="tout.png" WIDTH=20 HEIGHT=20 >Autres</a>
+			<ul class="sous">
+			<li><a href="#">Voitures</a></li>
+			<li><a href="#">bureau</a></li>
+			<li><a href="#">Sport & Loisir</a></li>
+			<li><a href="#">Décorations Maison</a></li>
+			<li><a href="#">divers</a></li>
+		  </ul>
+      </li>
+      <li class="nav-item1 ">
+        <a class="nav-link" href="#">Contact</a>
+      </li>
+	   <li class="nav-item1">
+        <a class="nav-link" href="#">A propos</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+</br></br>
+
+
+<!-- contenu -->
+
+contenu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</br>
+<!-- footer -->
+<footer>
+
+<div class="card">
+  <div class="card-header">
+    Nouveautés
+  </div>
+  <div class="card-body">
+    <h5 class="card-title">Toutes Neufs</h5>
+    <p class="card-text">Produis de qualités et moins chère</p>
+    <a href="#" ">photo</a>
+  </div>
+</div>
+
+</footer>
+
+
+
+
+
+
+</body>
+</html>

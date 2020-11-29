@@ -1,0 +1,170 @@
+marquee{
+background-color: white;
+text-shadow: 3px 3px 4px red;
+text-transform: uppercase;
+font-style: italic;
+}
+#search-btn{
+color: orange;  
+letter-spacing: 1px;   
+font-size: 9px;   
+background-color: #fff;
+margin-left: 5px;
+text-align: center;
+padding: 5px 5px 5px 5px;
+
+}
+#search{
+padding: 0px 5px 10px 5px;
+color:orange;   
+letter-spacing: 1px; 
+font-size: 12px;   
+width:470px; height:45px;
+margin-top: -10px;
+
+}
+body{
+background-color: white; 
+
+}
+
+header{
+background-color: #eee;
+}
+
+.nav-item > a::after{
+    content:" ▼";
+    font-size: 12px;
+}
+
+
+/*Reset CSS*/
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Avenir, sans-serif;
+}
+
+
+ul{
+	width: 100%;
+    margin: 0 auto;
+   background-color: #eee;
+    position: sticky;
+    display: flex;
+    top: 0px;
+    text-align: center;
+    list-style-type: none;
+    justify-content: space-around;
+    
+	
+}
+
+ul li a{
+    flex: 0.05 0 auto;
+    text-align: center;
+    position: relative;
+    font-weight: bold;
+}
+
+ul a{
+    display: block;
+    text-decoration: none;
+    color: black;
+    border-bottom: 2px solid black;
+    padding: 10px 0px;
+	
+}
+
+ul a:hover{
+    color: orange;
+    border-bottom: 2px solid gold;
+}
+
+.sous{
+    display: none;
+    box-shadow: 0px 1px 2px #CCC;
+    background-color: white;
+    position: absolute;
+    width: 15%;
+    z-index: 1000;
+    top: 38px;
+}
+ul > li:hover .sous{
+    display: flex;
+   flex-flow: column;
+}
+
+.sous a{
+    padding: 10px;
+    border-bottom: none;
+}
+.sous a:hover{
+    border-bottom: none;
+    background-color: RGBa(200,200,200,0.1);
+}
+.nav-item > a::after{
+    content:" ▼";
+    font-size: 12px;
+	color: red;
+}
+
+
+h4{
+	font-size: 40px;
+	font-weight: normal;
+	text-align: center;
+	margin: 15px;
+	box-shadow: 5px 5px 10px black;
+	border-radius: 15px;
+	background-color: white;
+	
+}
+.card-header{
+color: red;
+text-decoration: underline;
+}
+
+h5{
+margin-left: 25px;
+}
+h3{
+   
+    left: 20%;
+    color: transparent; 
+    font-size: 30px;
+    margin: 0; 
+    font-family: 'frozen', serif;
+    font-weight: 700;
+    background: url("img/8.jpg");
+    -webkit-background-clip: text;
+    background-size: contain;
+    width: 100%;
+    text-align:center;
+    font-weight: 900;
+}
+
+pre > a {
+    
+text-decoration:underline;
+}
+
+h2{
+   
+    left: 20%;
+    color: transparent; 
+    font-size: 30px;
+    margin: 0; 
+    font-family: 'frozen', serif;
+    font-weight: 700;
+    background: url("img/8.jpg");
+    -webkit-background-clip: text;
+    background-size: contain;
+    width: 100%;
+    font-weight: 900;
+}
+
+p {
+    
+ margin-left: 15px;
+}
