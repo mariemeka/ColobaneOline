@@ -17,10 +17,11 @@ import java.sql.Statement;
 public class SQL_Update {
     protected Connection con=null;
     protected Statement stmt=null;
-    protected String sql;
-    protected int etat = 1;
+    
+    
+    protected int etat = 1; //indique si la mise à jours a été bien faite
 
-    public SQL_Update(String sql) {
+    public SQL_Update() {
         try{
             Class.forName("com.mysql.jdbc.Driver");
         }catch(Exception e){
@@ -42,13 +43,13 @@ public class SQL_Update {
             System.out.print("Impossible de créer de statement");
             etat = 0;
         }
-        this.sql = sql;
-        try{
-            stmt.executeUpdate(sql);
-        }catch(SQLException e){
-            System.out.println("Erreur de requête : Inscription" + e.getMessage());
-            etat = 0;
-        }
+//        this.sql = sql;
+//        try{
+//            stmt.executeUpdate(sql);
+//        }catch(SQLException e){
+//            System.out.println("Erreur de requête : Inscription" + e.getMessage());
+//            etat = 0;
+//        }
     }
 
     public int getEtat() {
