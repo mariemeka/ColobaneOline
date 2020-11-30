@@ -1,13 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <web-app version="3.1" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd">
     <servlet>
-        <servlet-name>Home</servlet-name>
-        <servlet-class>servlets.Home</servlet-class>
+        <servlet-name>Acceuil</servlet-name>
+        <servlet-class>com.admin.servlet.Acceuil</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>cosmetique</servlet-name>
+        <servlet-class>com.admin.servlet.cosmetique</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>electronique</servlet-name>
+        <servlet-class>com.admin.servlet.electronique</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>Autres</servlet-name>
+        <servlet-class>com.admin.servlet.Autres</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>vetement</servlet-name>
+        <servlet-class>com.admin.servlet.vetement</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>electromenager</servlet-name>
+        <servlet-class>com.admin.servlet.electromenager</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>contact</servlet-name>
+        <servlet-class>com.admin.servlet.contact</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>Apropos</servlet-name>
+        <servlet-class>com.admin.servlet.Apropos</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>panier</servlet-name>
+        <servlet-class>com.admin.servlet.panier</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>compte</servlet-name>
+        <servlet-class>com.admin.servlet.compte</servlet-class>
     </servlet>
     <servlet-mapping>
-        <servlet-name>Home</servlet-name>
-        <url-pattern>/</url-pattern>
+        <servlet-name>Acceuil</servlet-name>
+        <url-pattern>/Acceuil</url-pattern>
     </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>cosmetique</servlet-name>
+        <url-pattern>/cosmetique</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>electronique</servlet-name>
+        <url-pattern>/electronique</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>Autres</servlet-name>
+        <url-pattern>/Autres</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>vetement</servlet-name>
+        <url-pattern>/vetement</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>electromenager</servlet-name>
+        <url-pattern>/electromenager</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>contact</servlet-name>
+        <url-pattern>/contact</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>Apropos</servlet-name>
+        <url-pattern>/Apropos</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>panier</servlet-name>
+        <url-pattern>/panier</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>compte</servlet-name>
+        <url-pattern>/compte</url-pattern>
+    </servlet-mapping>
+     <welcome-file-list> 
+          <welcome-file>/WEB-INF/acceuil.jsp</welcome-file> 
+      </welcome-file-list> 
     <session-config>
         <session-timeout>
             30
