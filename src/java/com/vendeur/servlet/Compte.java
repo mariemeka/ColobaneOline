@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.admin.servlet;
+package com.vendeur.servlet;
 
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -16,7 +16,7 @@ import javax.servlet.http.HttpServletResponse;
  *
  * @author Marieme ka
  */
-public class contact extends HttpServlet {
+public class Compte extends HttpServlet {
 
     /**
      * Processes requests for both HTTP <code>GET</code> and <code>POST</code>
@@ -44,7 +44,7 @@ public class contact extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
-       this.getServletContext().getRequestDispatcher("/WEB-INF/contact.jsp").forward(request, response);
+        this.getServletContext().getRequestDispatcher("/WEB-INF/compte.jsp").forward(request, response);
     }
 
     /**
@@ -58,7 +58,7 @@ public class contact extends HttpServlet {
     @Override
     protected void doPost(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
-        
+        processRequest(request, response);
     }
 
     /**

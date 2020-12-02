@@ -13,5 +13,10 @@
     </head>
     <body>
         <h1>page Contact</h1>
+        
+        
+            <!-- footer  -->
+        <br>
+ <%@include file="footer.jsp" %>
     </body>
 </html>

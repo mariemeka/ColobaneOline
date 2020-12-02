@@ -19,5 +19,10 @@
     <body>
         <%@include file="menu.jsp" %>
         <h1>Hello World!</h1>
+        
+        
+             <!-- footer  -->
+        <br>
+ <%@include file="footer.jsp" %>
     </body>
 </html>

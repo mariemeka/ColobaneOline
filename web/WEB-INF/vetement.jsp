@@ -14,7 +14,7 @@
         <script src="bootstrap/js/jquery-3.4.1.js"></script>
         <script src="bootstrap/js/bootstrap.min.js"></script>
         <script src="bootstrap/js/popper.js"></script>
-        <link href="style.css" rel="stylesheet">
+    
 </head>
     <body>
         <%@include file="menu.jsp" %>
@@ -187,7 +187,10 @@ Habiller vos enfants
     
     
     
-    
+    <br>
+
+ <%@include file="footer.jsp" %>
+        
     
     
     </body>

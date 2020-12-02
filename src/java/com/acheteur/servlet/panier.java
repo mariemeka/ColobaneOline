@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.admin.servlet;
+package com.acheteur.servlet;
 
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -44,7 +44,7 @@ public class panier extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
-        processRequest(request, response);
+      this.getServletContext().getRequestDispatcher("/WEB-INF/panier.jsp").forward(request, response);
     }
 
     /**
@@ -58,7 +58,7 @@ public class panier extends HttpServlet {
     @Override
     protected void doPost(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
-    this.getServletContext().getRequestDispatcher("/WEB-INF/panier.jsp").forward(request, response);
+    
     }
 
     /**

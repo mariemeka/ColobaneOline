@@ -14,7 +14,7 @@
         <script src="bootstrap/js/jquery-3.4.1.js"></script>
         <script src="bootstrap/js/bootstrap.min.js"></script>
         <script src="bootstrap/js/popper.js"></script>
-        <link href="style.css" rel="stylesheet">
+      
 </head>
     <body>
         <%@include file="menu.jsp" %>
@@ -77,23 +77,9 @@
 
 
 
-        <!-- footer -->
-        <footer>
-
-            <div class="card">
-                <div class="card-header">
-                    Nouveautés
-                </div>
-                <div class="card-body">
-                    <h5 class="card-title">Toutes Neufs</h5>
-                    <p class="card-text">Produis de qualités et moins chère</p>
-                    <a href="#">photo</a>
-                </div>
-            </div>
-
-        </footer>
 
 
+ <%@include file="footer.jsp" %>
 
         </body>
         </html>
