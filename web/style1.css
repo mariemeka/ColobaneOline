@@ -1,0 +1,93 @@
+body
+{
+    background-color: #F7F5F5;
+}
+#main-image
+{
+    height: 250px;
+    background: url('images/main-img.jpg') center;
+    background-repeat: no-repeat;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 20px;
+    border-radius: 7px;
+}
+
+.category h2
+{
+    text-align: center;
+}
+
+
+.row
+{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+
+.product h3
+{
+    margin-left: 100px;
+}
+
+
+.btn-order
+{
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #000;
+    text-decoration: none;
+    text-shadow: 2px 2px #333;
+}
+
+.btn-order:hover, .btn-order:focus
+{
+    color: #fff;
+    background-color: #817979;
+}
+
+
+.price
+{
+    background: #000;
+    box-shadow: 0 1px rgba(0,0,0,0.2);
+    -moz-box-shadow: 0 1px rgba(0,0,0,0.2);
+    -webkit-box-shadow: 0 1px rgba(0,0,0,0.2);
+    color: #fff;
+    text-shadow: 2px 2px #333;
+    position: absolute;
+    left: 6px;
+    top: 20px;
+    padding: 5px 10px;
+    font-size: 15px;
+    border-radius: 3px;
+}
+
+
+.thumbnail
+{
+  border-radius: 20px;
+}
+
+.thumbnail img
+{
+    border-radius: 20px;
+}
+
+.thumbnail:hover
+{
+    background-color: #efefef;
+}
+
+
+
+.col-sm-6 {}
+.col-md-4 {}
+.caption {}
+.col-md-3 {}
+.btn {}
+.glyphicon {}
+.glyphicon-shopping-cart {}
