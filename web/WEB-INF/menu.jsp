@@ -8,139 +8,307 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
- <link href="style.css" rel="stylesheet">
+        <!-- Title Tag  -->
+        <title>ColobaneOnline</title>
+        <!-- Favicon -->
+        <link rel="icon" type="image/png" href="images/favicon.png">
+        <!-- Web Font -->
 
-  <!-- header -->
-    <header>
-        <div class="row">
-            <div class="col-6 col-md-4">
-                </br>
-                <img src="img/colo.jpg" align="left" height="50">
-                <h2  contenteditable data-heading="Frozen">ColobaneOnline</h2> 
+        <!-- StyleSheet -->
 
+        <!-- Bootstrap -->
+        <link rel="stylesheet" href="css/bootstrap.css">
+        <!-- Magnific Popup -->
+        <link rel="stylesheet" href="css/magnific-popup.min.css">
+        <!-- Font Awesome -->
+        <link rel="stylesheet" href="css/font-awesome.css">
+        <!-- Fancybox -->
+        <link rel="stylesheet" href="css/jquery.fancybox.min.css">
+        <!-- Themify Icons -->
+        <link rel="stylesheet" href="css/themify-icons.css">
+        <!-- Nice Select CSS -->
+        <link rel="stylesheet" href="css/niceselect.css">
+        <!-- Animate CSS -->
+        <link rel="stylesheet" href="css/animate.css">
+        <!-- Flex Slider CSS -->
+        <link rel="stylesheet" href="css/flex-slider.min.css">
+        <!-- Owl Carousel -->
+        <link rel="stylesheet" href="css/owl-carousel.css">
+        <!-- Slicknav -->
+        <link rel="stylesheet" href="css/slicknav.min.css">
+
+        <!-- Eshop StyleSheet -->
+        <link rel="stylesheet" href="css/reset.css">
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="css/responsive.css">
+        <link rel="stylesheet" href="css/style.css">
+
+
+
+
+    </head>
+    <body class="js">
+
+        <!-- Preloader -->
+        <!-- <div class="preloader">
+                <div class="preloader-inner">
+                        <div class="preloader-icon">
+                                <span></span>
+                                <span></span>
+                        </div>
+                </div>
+        </div>-->
+        <!-- End Preloader -->
+
+
+        <!-- Header -->
+        <header class="header shop">
+            <!-- Topbar -->
+            <div class="topbar">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-4 col-md-12 col-12">
+                            <!-- Top Left -->
+                            <div class="top-left">
+                                <ul class="list-main">
+                                    <li><i class="ti-headphone-alt"></i> 33 856 74 11</li>
+                                    <li><i class="ti-email"></i> colobane@online.com</li>
+                                </ul>
+                            </div>
+                            <!--/ End Top Left -->
+                        </div>
+                        <div class="col-lg-8 col-md-12 col-12">
+                            <!-- Top Right -->
+                            <div class="right-content">
+                                <ul class="list-main">
+                                    <li><i class="ti-location-pin"></i> Emplacement</li>
+
+                                    <li><i class="ti-user"></i> <a href="#">Compte</a></li>
+                                    <li><i class="ti-power-off"></i><a href="#">s'identifier</a></li>
+                                </ul>
+                            </div>
+                            <!-- End Top Right -->
+                        </div>
+                    </div>
+                </div>
             </div>
-            <div class="col-8 col-md-6">
-                </br>
-                <form action="/search" id="searchthis" method="get">
-                    <input id="search" name="q" type="text" placeholder="Que recherhez-vous?" />
-                    <input id="search-btn" type="submit" value="Rechercher" />
-                </form>
+            <!-- End Topbar -->
+            <div class="middle-inner">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-2 col-md-2 col-12">
+                            <!-- Logo -->
+                            <div class="logo">
+                                <a href="index.html">
 
+
+                                    <h5 contenteditable data-heading="Frozen" 
+                                        style=" 
+                                        color: transparent;
+                                        background: url(images/colo.jpg);
+                                        -webkit-background-clip: text;
+                                        background-size: contain;">ColobaneOnline</h5> 
+
+                                </a>
+                            </div>
+                            <!--/ End Logo -->
+                            <!-- Search Form -->
+                            <div class="search-top">
+                                <div class="top-search"><a href="#0"><i class="ti-search"></i></a></div>
+                                <!-- Search Form -->
+                                <div class="search-top">
+                                    <form class="search-form">
+                                        <input type="text" placeholder="Search here..." name="search">
+                                        <button value="search" type="submit"><i class="ti-search"></i></button>
+                                    </form>
+                                </div>
+                                <!--/ End Search Form -->
+                            </div>
+                            <!--/ End Search Form -->
+                            <div class="mobile-nav"></div>
+                        </div>
+                        <div class="col-lg-8 col-md-7 col-12">
+                            <div class="search-bar-top">
+                                <div class="search-bar">
+                                    <select>
+                                        <option selected="selected">Catégories</option>
+                                        <option>vetements</option>
+                                        <option>mobiles</option>
+                                        <option>jouets enfants</option>
+                                    </select>
+                                    <form>
+                                        <input name="search" placeholder="Search Products Here....." type="search">
+                                        <button class="btnn"><i class="ti-search"></i></button>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-3 col-12">
+                            <div class="right-bar">
+                                <!-- Search Form -->
+                                <div class="sinlge-bar">
+                                    <a href="#" class="single-icon"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
+                                </div>
+                                <div class="sinlge-bar">
+                                    <a href="#" class="single-icon"><i class="fa fa-user-circle-o" aria-hidden="true"></i></a>
+                                </div>
+                                <div class="sinlge-bar shopping">
+                                    <a href="#" class="single-icon"><i class="ti-bag"></i> <span class="total-count">2</span></a>
+                                    <!-- Shopping Item -->
+                                    <div class="shopping-item">
+                                        <div class="dropdown-cart-header">
+                                            <span>2 elements</span>
+                                            <a href="#">View Cart</a>
+                                        </div>
+                                        <ul class="shopping-list">
+                                            <li>
+                                                <a href="#" class="remove" title="Remove this item"><i class="fa fa-remove"></i></a>
+                                                <a class="cart-img" href="#"><img src="images/10.jpg" alt="#"></a>
+                                                <h4><a href="#">Chaussures hommes</a></h4>
+                                                <p class="quantity">1x - <span class="amount">24000f</span></p>
+                                            </li>
+                                            <li>
+                                                <a href="#" class="remove" title="Remove this item"><i class="fa fa-remove"></i></a>
+                                                <a class="cart-img" href="#"><img src="images/5.jpg" alt="#"></a>
+                                                <h4><a href="#">Sac Femme</a></h4>
+                                                <p class="quantity">1x - <span class="amount">8000f</span></p>
+                                            </li>
+                                        </ul>
+                                        <div class="bottom">
+                                            <div class="total">
+                                                <span>Total</span>
+                                                <span class="total-amount">32000f</span>
+                                            </div>
+                                            <a href="checkout.html" class="btn animate">Confirmer</a>
+                                        </div>
+                                    </div>
+                                    <!--/ End Shopping Item -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
-            <div class="col-4 col-md-2">
-                </br>
-                <pre><a href="/ColobaneOline/compte"><img src="img/user.png" height="20" alt="compte"><strong>Compte</strong></a>  <a href="/ColobaneOline/panier"><img src="img/panier2.PNG" height="20" alt="panier"><STRONG>panier</STRONG></a></pre>
-             </div>
-         </div>
-    </header>
+            <!-- Header Inner -->
+            <div class="header-inner">
+                <div class="container">
+                    <div class="cat-nav-head">
+                        <div class="row">
+                            <div class="col-lg-3">
+                                <div class="all-category">
+                                    <h3 class="cat-heading"><i class="fa fa-bars" aria-hidden="true"></i>CATEGORIES</h3>
+                                    <ul class="main-category">
 
-
-<!-- caroussel -->
-<div class="row">
-    <div class="col">
-
-        <marquee id="id1" ><span  onmouseover="getElementById('id1').stop();" onmouseout="getElementById('id1').start();">
-            <img src="img/sport/5.jpg" WIDTH=120 HEIGHT=120>
-            <img src="img/cuisine/3.jpg" WIDTH=120 HEIGHT=120 > 
-            <img src="img/cuisine/4.jpg" WIDTH=120 HEIGHT=120 >
-            <img src="img/deco/6.jpg" WIDTH=120 HEIGHT=120 >
-            <img src="img/voiture/12.jpg" WIDTH=120 HEIGHT=120 >
-            <img src="img/ordi/12.jpg" WIDTH=120 HEIGHT=120 >
-            <img src="img/hom/1.jpg" WIDTH=120 HEIGHT=120 >
-            <img src="img/fem/1.jpg" WIDTH=120 HEIGHT=120 >
-            <img src="img/cuisine/9.jpg" WIDTH=120 HEIGHT=120 >
-            <img src="img/fem/5.jpg" WIDTH=120 HEIGHT=120 >
-            <img src="img/bureau/1.jpg" WIDTH=120 HEIGHT=120 >
-            <img src="img/fem/3.jpg" WIDTH=120 HEIGHT=120 >
-            <img src="img/cuisine/7.jpg" WIDTH=120 HEIGHT=120 >
-                <img src="img/deco/4.jpg" WIDTH=120 HEIGHT=120 >
-                <img src="img/cuisine/12.jpg" WIDTH=120 HEIGHT=120 >
-                <img src="img/26.jpg" WIDTH=120 HEIGHT=120 >
-                <img src="img/enfant/7.jpg" WIDTH=120 HEIGHT=120 >
-                <img src="img/15.jpg" WIDTH=120 HEIGHT=120>
-                <img src="img/fem/4.jpg" WIDTH=120 HEIGHT=120 >
-                <img src="img/sport/4.jpg" WIDTH=120 HEIGHT=120 >
-                <img src="img/20.jpg" WIDTH=120 HEIGHT=120 >
-                <img src="img/22.jpg" WIDTH=120 HEIGHT=120 > 
-                <img src="img/24.jpg" WIDTH=120 HEIGHT=120 >
-                <img src="img/25.jpg" WIDTH=120 HEIGHT=120 > 
-                <img src="img/27.jpg" WIDTH=120 HEIGHT=120 > 
-                <img src="img/28.jpg" WIDTH=120 HEIGHT=120 >
-                <img src="img/30.jpg" WIDTH=120 HEIGHT=120 > 
-                <img src="img/32.jpg" WIDTH=120 HEIGHT=120 >
-                <img src="img/33.jpg" WIDTH=120 HEIGHT=120 > 
-                <img src="img/31.jpg" WIDTH=120 HEIGHT=120 >
-                <img src="img/29.jpg" WIDTH=120 HEIGHT=120 > 
-                <img src="img/19.jpg" WIDTH=120 HEIGHT=120 >
-                <img src="img/18.jpg" WIDTH=120 HEIGHT=120 > 
-                <img src="img/enfant/4.jpg" WIDTH=120 HEIGHT=120 >
-            </span></marquee>
-
-    </div>
-</div>
+                                        <li class="main-mega"><a href="/ColobaneOline/vetement">Vetements <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                            <ul class="mega-menu">
+                                                <li class="single-menu">
+                                                    <a href="/ColobaneOline/vetement" class="title-link">Enfants</a>
+                                                    <div class="image">
+                                                        <img src="images/en.jpg" alt="#">
+                                                    </div>
+                                                    <div class="inner-link">
+                                                        <a href="#">Jouets pour enfant</a>
+                                                        <a href="#">robes pour fille</a>
+                                                        <a href="#">Ensemles pour enfant</a>
+                                                        <a href="#">divers pour enfant</a>
+                                                    </div>
+                                                </li>
+                                                <li class="single-menu">
+                                                    <a href="/ColobaneOline/vetement" class="title-link">Hommes</a>
+                                                    <div class="image">
+                                                        <img src="images/hom.jpg" alt="#">
+                                                    </div>
+                                                    <div class="inner-link">
+                                                        <a href="#">Chemises</a>
+                                                        <a href="#">T-shirt</a>
+                                                        <a href="#">Basckets</a>
+                                                        <a href="#">Pantalon</a>
+                                                    </div>
+                                                </li>
+                                                <li class="single-menu">
+                                                    <a href="/ColobaneOline/vetement" class="title-link">femmes</a>
+                                                    <div class="image">
+                                                        <img src="images/fem.jpg" alt="#">
+                                                    </div>
+                                                    <div class="inner-link">
+                                                        <a href="#"> T-Shirt pour Femme</a>
+                                                        <a href="#">Sac pour Femme</a>
+                                                        <a href="#">Robes pour Femme</a>
+                                                        <a href="#">Chaussures pour Femme</a>
+                                                    </div>
+                                                </li>
 
 
 
 
-<!-- menu horizontal -->
+                                            </ul>
 
-<nav class="navbar navbar-light bg-light navbar-expand-lg">
-    <a class="navbar-brand" href="#">Catégories</a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"  aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span> </button>
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav mr-auto">
-            <li class="nav-item1 active">
-                <a class="nav-link" href="/ColobaneOline/Acceuil">Accueil</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="/ColobaneOline/electronique"> <img src="img/elec3.png" WIDTH=20 HEIGHT=20 >Electroniques</a>
-                <ul class="sous">
-                    <li><a href="#">Telephones & Tablettes</a></li>
-                    <li><a href="#">Ordinateurs</a></li>
-                    <li><a href="#">Télévisions</a></li>
-                </ul>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="/ColobaneOline/vetement"><img src="img/vet2.jpg" WIDTH=22 HEIGHT=21 >Vetements</a>
-                <ul class="sous">
-                    <li><a href="#"> Bébé</a></li>
-                    <li><a href="#"> Femmes</a></li>
-                    <li><a href="#"> Hommes</a></li>
-                </ul>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="/ColobaneOline/cosmetique"><img src="img/cos2.png" WIDTH=20 HEIGHT=20 >Cosmétiques</a>
-                <ul class="sous">
-                    <li><a href="#">Produits Hommes</a></li>
-                    <li><a href="#">Produis Femmes</a></li>
+                                        </li>
+                                        <li><a href="/ColobaneOline/electronique"> Electroniques <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                            <ul class="sub-category">
+                                                <li><a href="#">Telephones & Tablettes</a></li>
+                                                <li><a href="#">Ordinateurs</a></li>
+                                                <li><a href="#">Télévisions</a></li>
 
-                </ul>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="/ColobaneOline/electromenager"><img src="img/elec.PNG" WIDTH=22 HEIGHT=20 >Electromenager</a>	
-                <ul class="sous">
-                    <li><a href="#">Matériel de nettoyage</a></li>
-                    <li><a href="#">Matériel de conservation</a></li>
-                    <li><a href="#">Matériel pour le froid</a></li>
-                </ul>
+                                            </ul>
+                                        </li>
+                                        <li><a href="/ColobaneOline/electromenager"> Electromenager <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                            <ul class="sub-category">
+                                                <li><a href="#">Matériel de nettoyage</a></li>
+                                                <li><a href="#">Matériel de conservation</a></li>
+                                                <li><a href="#">Matériel pour le froid</a></li>
 
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="/ColobaneOline/Autres"><img src="img/au.png" WIDTH=20 HEIGHT=20 >Autres</a>
-                <ul class="sous">
-                    <li><a href="#">Voitures</a></li>
-                    <li><a href="#">bureau</a></li>
-                    <li><a href="#">Sport & Loisir</a></li>
-                    <li><a href="#">Décorations Maison</a></li>
-                    <li><a href="#">divers</a></li>
-                </ul>
-            </li>
-            <li class="nav-item1 ">
-                <a class="nav-link" href="/ColobaneOline/contact">Contact</a>
-            </li>
-            <li class="nav-item1">
-                <a class="nav-link" href="/ColobaneOline/Apropos">A propos</a>
-            </li>
-        </ul>
-    </div>
-</nav>
+                                            </ul>
+                                        </li>
+
+                                        <li><a href="/ColobaneOline/cosmetique"> Cosmetique <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                            <ul class="sub-category">
+                                                <li><a href="#">Produits Hommes</a></li>
+                                                <li><a href="#">Produits Femmes</a></li>
+
+
+                                            </ul>
+                                        </li>
+                                        <li><a href="/ColobaneOline/Autres">Nouvelles Arrivées <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                            <ul class="sub-category">
+                                                <li><a href="#">accessories</a></li>
+                                                <li><a href="#">Vetements</a></li>
+                                                <li><a href="#">top 100 offerts</a></li>
+                                                <li><a href="#">Décoration Maison</a></li>
+                                                <li><a href="#">sports</a></li>
+                                                <li><a href="#">Bureau</a> </li>
+                                                <li><a href="#">Voiture</a></li>
+
+                                            </ul>
+                                        </li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-lg-9 col-12">
+                                <div class="menu-area">
+                                    <!-- Main Menu -->
+                                    <nav class="navbar navbar-expand-lg">
+                                        <div class="navbar-collapse">	
+                                            <div class="nav-inner">	
+                                                <ul class="nav main-menu menu navbar-nav">
+                                                    <li class="active"><a href="/ColobaneOline/Acceuil">Acceuil</a></li>
+                                                    <li><a href="#">Produit</a></li>												
+                                                    <li><a href="#">Service</a></li>
+                                                    <li><a href="#">Boutique<i class="ti-angle-down"></i><span class="new">New</span></a>
+                                                    <li><a href="/ColobaneOline/contact">Contact</a></li>									
+                                                    <li><a href="/ColobaneOline/Apropos">A Propos</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </nav>
+                                    <!--/ End Main Menu -->	
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--/ End Header Inner -->
+        </header>
+        <!--/ End Header -->

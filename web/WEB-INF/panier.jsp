@@ -9,10 +9,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
-        <script src="bootstrap/js/jquery-3.4.1.js"></script>
-        <script src="bootstrap/js/bootstrap.min.js"></script>
-        <script src="bootstrap/js/popper.js"></script>
+     
 
         <link href="css/a.css" rel="stylesheet">
         <title>Espace Acheteur</title>
