@@ -5,11 +5,13 @@
  */
 package Beans.transactions;
 
+import Beans.objects.Article;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
+import java.util.ArrayList;
 
 /**
  *
@@ -20,7 +22,6 @@ public class SQL_Select {
     protected Connection con=null;
     protected Statement stmt=null;
     
-    //protected String sql; // requête de sélection à exécuter
     
     ResultSet rs=null; //Stock le résultat renvoyé par la requête
 
@@ -65,5 +66,10 @@ public class SQL_Select {
         - Selection des article d'une catégorie
         - etc.
     */
+    
+    public ArrayList<Article> getAllProduct() {
+        ArrayList<Article> articles = new ArrayList<Article>();
+        return articles;
+    }
        
 }
