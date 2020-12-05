@@ -1,2 +1,2 @@
 # ColobaneOline
-Site E-commerce avec JEE
+Site E-commerce
