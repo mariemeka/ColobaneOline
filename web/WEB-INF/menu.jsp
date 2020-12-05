@@ -83,8 +83,8 @@
                                 <ul class="list-main">
                                     <li><i class="ti-location-pin"></i> Emplacement</li>
 
-                                    <li><i class="ti-user"></i> <a href="#">Compte</a></li>
-                                    <li><i class="ti-power-off"></i><a href="#">s'identifier</a></li>
+                                    <li><i class="ti-user"></i> <a href="/ColobaneOline/compte">Compte</a></li>
+                                    <li><i class="ti-power-off"></i><a href="/ColobaneOline/identification">s'identifier</a></li>
                                 </ul>
                             </div>
                             <!-- End Top Right -->
@@ -99,7 +99,7 @@
                         <div class="col-lg-2 col-md-2 col-12">
                             <!-- Logo -->
                             <div class="logo">
-                                <a href="index.html">
+                                <a href="/ColobaneOline/Acceuil">
 
 
                                     <h5 contenteditable data-heading="Frozen" 

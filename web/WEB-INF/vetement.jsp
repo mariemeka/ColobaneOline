@@ -172,7 +172,7 @@
 								</div>
                             </div>
                             <div class="product-content">
-                                <h3><a href="product-details.html"></a></h3>
+                                <h3><a href="/ColobaneOline/productDetails"></a></h3>
                                 <div class="product-price">
                                     <span></span>
                                 </div>
@@ -323,7 +323,7 @@
 							</div>
 							<div class="col-lg-6 col-md-6 col-12 no-padding">
 								<div class="content">
-									<h5 class="title"><a href="#">Enseble Gris</a></h5>
+									<h5 class="title"><a href="#">Ensemble Gris</a></h5>
 									<p class="price with-discount">2500f</p>
 								</div>
 							</div>

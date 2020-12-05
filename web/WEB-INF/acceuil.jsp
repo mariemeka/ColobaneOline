@@ -1459,7 +1459,7 @@
                             <div class="content">
                                 <p>Collections MAISON</p>
                                 <h3>Des chaises <br> jusqu'à<span> 50%</span></h3>
-                                <a href="#">Achetez</a>
+                                <a href="/ColobaneOline/ProductDetails">Achetez</a>
                             </div>
                         </div>
                     </div>
@@ -1471,7 +1471,7 @@
                             <div class="content">
                                 <p>Collections MAISON</p>
                                 <h3>fAUTEUIL <br> jusqu'à<span>70%</span></h3>
-                                <a href="#" class="btn">Achetez</a>
+                                <a href="/ColobaneOline/ProductDetails" class="btn">Achetez</a>
                             </div>
                         </div>
                     </div>

@@ -39,7 +39,7 @@
 											<input type="text" name="name" placeholder="" required="required">
 										</div>
 									</div>
-									<div class="col-lg-6 col-md-6 col-12">
+                                                                    <div class="col-lg-6 col-md-6 col-12">
 										<div class="form-group">
 											<label>Adresse Email<span>*</span></label>
 											<input type="email" name="email" placeholder="" required="required">
@@ -51,6 +51,19 @@
 											<input type="number" name="number" placeholder="" required="required">
 										</div>
 									</div>
+                                                                    <div class="col-lg-6 col-md-6 col-12">
+										<div class="form-group">
+											<label>Password<span>*</span></label>
+											<input type="password" name="name" placeholder="" required="required">
+										</div>
+									</div>
+									<div class="col-lg-6 col-md-6 col-12">
+										<div class="form-group">
+											<label>Confirmation Password<span>*</span></label>
+											<input type="password" name="name" placeholder="" required="required">
+										</div>
+									</div>
+									
 									<div class="col-lg-6 col-md-6 col-12">
 										<div class="form-group">
 											<label>Pays<span></span></label>
@@ -320,7 +333,9 @@
 									<div class="col-12">
 										<div class="form-group create-account">
 											<input id="cbox" type="checkbox">
-											<label>Creer Compte?</label>
+                                                                                        <label>Creer Compte?</label><br>
+                                                                                        <label> ou </label> <br>
+                                                                                        <a href="/ColobaneOline/identification"  style="color: red;">Connectez-vous </a>
 										</div>
 									</div>
 								</div>
@@ -369,7 +384,7 @@
 							<div class="single-widget get-button">
 								<div class="content">
 									<div class="button">
-										<a href="#" class="btn">proceed to checkout</a>
+										<a href="#" class="btn">Passer à la caisse</a>
 									</div>
 								</div>
 							</div>
