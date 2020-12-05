@@ -60,7 +60,7 @@
 	<!-- End Midium Banner -->
 	
 	<!-- Start Most Popular -->
-	<div class="product-area most-popular section">
+	<div class="product-area most-popular section" id="enfant">
         <div class="container">
             <div class="row">
 				<div class="col-12">
@@ -338,7 +338,7 @@
 		</div>
 	</section>
 	<!-- End Shop Home List  -->
-		<div class="product-area most-popular section">
+		<div class="product-area most-popular section" id="hom">
         <div class="container">
             <div class="row">
 				<div class="col-12">
@@ -464,7 +464,7 @@
     </div>
 	
 	<!-- Start Cowndown Area -->
-	<section class="shop-home-list section">
+	<section class="shop-home-list section" >
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-4 col-md-6 col-12">
@@ -611,18 +611,198 @@
 					
 					<!-- End Single List  -->
 				</div>
+                           
+                         
+                         
+                        
+                            
+                           
+					</div>   </div>
+        </section>
+        <section class="shop-home-list section" >
+		<div class="container">
+                    <div class="row">
+                        
+                         <div class="col-lg-4 col-md-6 col-12">
+                              
+					<div class="row">
+						<div class="col-12">
+							<div class="shop-section-title">
+								<h1 id="shoes">Chaussures Homme</h1>
+							</div>
+						</div>
+					</div>
+					<!-- Start Single List  -->
+					<div class="single-list">
+						<div class="row">
+							<div class="col-lg-6 col-md-6 col-12">
+								<div class="list-image overlay">
+									<img src="images/hom/1.jpg" alt="#" WIDTH=140 HEIGHT=115>
+									<a href="#" class="buy"><i class="fa fa-shopping-bag"></i></a>
+								</div>
+							</div>
+							<div class="col-lg-6 col-md-6 col-12 no-padding">
+								<div class="content">
+									<h4 class="title"><a href="#">Chaussure marron</a></h4>
+									<p class="price with-discount">15000f</p>
+								</div>
+							</div>
+						</div>
+					</div>
+                                        
+					
+				</div>
+                            <div class="col-lg-4 col-md-6 col-12">
+					<div class="row">
+						<div class="col-12">
+							<div class="shop-section-title">
+								<h1>Meilleur qualité</h1>
+							</div>
+						</div>
+					</div>
+					<!-- Start Single List  -->
+					<div class="single-list">
+						<div class="row">
+							<div class="col-lg-6 col-md-6 col-12">
+								<div class="list-image overlay">
+									<img src="images/hom/34.jpg" alt="#">
+									<a href="#" class="buy"><i class="fa fa-shopping-bag"></i></a>
+								</div>
+							</div>
+							<div class="col-lg-6 col-md-6 col-12 no-padding">
+								<div class="content">
+									<h5 class="title"><a href="#">Chaussure Noire</a></h5>
+									<p class="price with-discount">6000f</p>
+								</div>
+							</div>
+						</div>
+					</div>
+                            
+                            
 			</div>
-		</div>
+                         		<div class="col-lg-4 col-md-6 col-12">
+					<div class="row">
+						<div class="col-12">
+							<div class="shop-section-title">
+								<h1>Nouveautés</h1>
+							</div>
+						</div>
+					</div>
+					<!-- Start Single List  -->
+					<div class="single-list">
+						<div class="row">
+							<div class="col-lg-6 col-md-6 col-12">
+								<div class="list-image overlay">
+									<img src="images/hom/16.jpg" alt="#">
+									<a href="#" class="buy"><i class="fa fa-shopping-bag"></i></a>
+								</div>
+							</div>
+							<div class="col-lg-6 col-md-6 col-12 no-padding">
+								<div class="content">
+									<h5 class="title"><a href="#">Shoes</a></h5>
+									<p class="price with-discount">4500f</p>
+								</div>
+							</div>
+						</div>
+					</div>   </div>
+                        
+                        <div class="col-lg-4 col-md-6 col-12">
+                              
+					<div class="row">
+						<div class="col-12">
+							<div class="shop-section-title">
+								<h1 id="shoes"></h1>
+							</div>
+						</div>
+					</div>
+					<!-- Start Single List  -->
+					<div class="single-list">
+						<div class="row">
+							<div class="col-lg-6 col-md-6 col-12">
+								<div class="list-image overlay">
+									<img src="images/hom/8.jpg" alt="#" WIDTH=140 HEIGHT=115>
+									<a href="#" class="buy"><i class="fa fa-shopping-bag"></i></a>
+								</div>
+							</div>
+							<div class="col-lg-6 col-md-6 col-12 no-padding">
+								<div class="content">
+									<h4 class="title"><a href="#">Chaussure </a></h4>
+									<p class="price with-discount">5000f</p>
+								</div>
+							</div>
+						</div>
+					</div>
+                                        
+					
+				</div>
+                            <div class="col-lg-4 col-md-6 col-12">
+					<div class="row">
+						<div class="col-12">
+							<div class="shop-section-title">
+								<h1></h1>
+							</div>
+						</div>
+					</div>
+					<!-- Start Single List  -->
+					<div class="single-list">
+						<div class="row">
+							<div class="col-lg-6 col-md-6 col-12">
+								<div class="list-image overlay">
+									<img src="images/hom/9.jpg" alt="#">
+									<a href="#" class="buy"><i class="fa fa-shopping-bag"></i></a>
+								</div>
+							</div>
+							<div class="col-lg-6 col-md-6 col-12 no-padding">
+								<div class="content">
+									<h5 class="title"><a href="#">Chaussure Noire</a></h5>
+									<p class="price with-discount">2000f</p>
+								</div>
+							</div>
+						</div>
+					</div>
+                            
+                            
+			</div>
+                         		<div class="col-lg-4 col-md-6 col-12">
+					<div class="row">
+						<div class="col-12">
+							<div class="shop-section-title">
+								<h1></h1>
+							</div>
+						</div>
+					</div>
+					<!-- Start Single List  -->
+					<div class="single-list">
+						<div class="row">
+							<div class="col-lg-6 col-md-6 col-12">
+								<div class="list-image overlay">
+									<img src="images/hom/11.jpg" alt="#">
+									<a href="#" class="buy"><i class="fa fa-shopping-bag"></i></a>
+								</div>
+							</div>
+							<div class="col-lg-6 col-md-6 col-12 no-padding">
+								<div class="content">
+									<h5 class="title"><a href="#">Shoes</a></h5>
+									<p class="price with-discount">2500f</p>
+								</div>
+							</div>
+						</div>
+					</div>   </div>
+                        
+                    </div>
+                       </div>
+        </section>
+		
 	
 	<!-- /End Cowndown Area -->
-			<div class="product-area most-popular section">
+			<div class="product-area most-popular section" id="fem">
         <div class="container">
             <div class="row">
-				<div class="col-12">
-					<div class="section-title">
-						<h2>Femmes</h2>
-					</div>
-				</div>
+                <div class="col-12">
+                    <div class="section-title">
+                        <h2>Femmes</h2>
+                    </div>
+                </div>
             </div>
             <div class="row">
                 <div class="col-12">
@@ -775,7 +955,7 @@
 						<div class="row">
 							<div class="col-lg-6 col-md-6 col-12">
 								<div class="list-image overlay">
-									<img src="images/fem/27.jpg" alt="#">
+									<img src="images/fem/21.jpg" alt="#">
 									<a href="#" class="buy"><i class="fa fa-shopping-bag"></i></a>
 								</div>
 							</div>
@@ -805,13 +985,13 @@
 						<div class="row">
 							<div class="col-lg-6 col-md-6 col-12">
 								<div class="list-image overlay">
-									<img src="images/fem/21.jpg" alt="#">
+									<img src="images/fem/8.jpg" alt="#">
 									<a href="#" class="buy"><i class="fa fa-shopping-bag"></i></a>
 								</div>
 							</div>
 							<div class="col-lg-6 col-md-6 col-12 no-padding">
 								<div class="content">
-									<h5 class="title"><a href="#">Robe plage</a></h5>
+									<h5 class="title"><a href="#">Robe Noire</a></h5>
 									<p class="price with-discount">2000f</p>
 								</div>
 							</div>
@@ -823,13 +1003,13 @@
 						<div class="row">
 							<div class="col-lg-6 col-md-6 col-12">
 								<div class="list-image overlay">
-									<img src="images/fem/8.jpg" alt="#">
+									<img src="images/fem/27.jpg" alt="#">
 									<a href="#" class="buy"><i class="fa fa-shopping-bag"></i></a>
 								</div>
 							</div>
 							<div class="col-lg-6 col-md-6 col-12 no-padding">
 								<div class="content">
-									<h5 class="title"><a href="#">robe noire</a></h5>
+									<h5 class="title"><a href="#">Robe Plage</a></h5>
 									<p class="price with-discount">8000f</p>
 								</div>
 							</div>
@@ -890,7 +1070,265 @@
 				</div>
 			</div>
 		</div>
+        </section>
            
+        
+        <section class="shop-home-list section" id="sac">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-4 col-md-6 col-12">
+					<div class="row">
+						<div class="col-12">
+							<div class="shop-section-title">
+								<h1>En Soldes</h1>
+							</div>
+						</div>
+					</div>
+					<!-- Start Single List  -->
+					<div class="single-list">
+						<div class="row">
+							<div class="col-lg-6 col-md-6 col-12">
+								<div class="list-image overlay">
+									<img src="images/fem/36.jpg" alt="#" WIDTH=140 HEIGHT=115>
+									<a href="#" class="buy"><i class="fa fa-shopping-bag"></i></a>
+								</div>
+							</div>
+							<div class="col-lg-6 col-md-6 col-12 no-padding">
+								<div class="content">
+									<h4 class="title"><a href="#">SAc</a></h4>
+									<p class="price with-discount">2000f</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- End Single List  -->
+					<!-- Start Single List  -->
+					<div class="single-list">
+						<div class="row">
+							<div class="col-lg-6 col-md-6 col-12">
+								<div class="list-image overlay">
+									<img src="images/fem/9.jpg" alt="#">
+									<a href="#" class="buy"><i class="fa fa-shopping-bag"></i></a>
+								</div>
+							</div>
+							<div class="col-lg-6 col-md-6 col-12 no-padding">
+								<div class="content">
+									<h5 class="title"><a href="#">Sac deux Tons</a></h5>
+									<p class="price with-discount">4500f</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- End Single List  -->
+					<!-- Start Single List  -->
+					
+					<!-- End Single List  -->
+				</div>
+				<div class="col-lg-4 col-md-6 col-12">
+					<div class="row">
+						<div class="col-12">
+							<div class="shop-section-title">
+								<h1>Best Seller</h1>
+							</div>
+						</div>
+					</div>
+					<!-- Start Single List  -->
+					<div class="single-list">
+						<div class="row">
+							<div class="col-lg-6 col-md-6 col-12">
+								<div class="list-image overlay">
+									<img src="images/fem/35.jpg" alt="#">
+									<a href="#" class="buy"><i class="fa fa-shopping-bag"></i></a>
+								</div>
+							</div>
+							<div class="col-lg-6 col-md-6 col-12 no-padding">
+								<div class="content">
+									<h5 class="title"><a href="#">Saccoche</a></h5>
+									<p class="price with-discount">2000f</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- End Single List  -->
+					<!-- Start Single List  -->
+					<div class="single-list">
+						<div class="row">
+							<div class="col-lg-6 col-md-6 col-12">
+								<div class="list-image overlay">
+									<img src="images/fem/37.jpg" alt="#">
+									<a href="#" class="buy"><i class="fa fa-shopping-bag"></i></a>
+								</div>
+							</div>
+							<div class="col-lg-6 col-md-6 col-12 no-padding">
+								<div class="content">
+									<h5 class="title"><a href="#">Sac Maron</a></h5>
+									<p class="price with-discount">3000f</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- End Single List  -->
+					<!-- Start Single List  -->
+					
+					<!-- End Single List  -->
+				</div>
+				<div class="col-lg-4 col-md-6 col-12">
+					<div class="row">
+						<div class="col-12">
+							<div class="shop-section-title">
+								<h1>Top viewed</h1>
+							</div>
+						</div>
+					</div>
+					<!-- Start Single List  -->
+					<div class="single-list">
+						<div class="row">
+							<div class="col-lg-6 col-md-6 col-12">
+								<div class="list-image overlay">
+									<img src="images/fem/14.jpg" alt="#">
+									<a href="#" class="buy"><i class="fa fa-shopping-bag"></i></a>
+								</div>
+							</div>
+							<div class="col-lg-6 col-md-6 col-12 no-padding">
+								<div class="content">
+									<h5 class="title"><a href="#">Sac ensemble</a></h5>
+									<p class="price with-discount">3200f</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- End Single List  -->
+					<!-- Start Single List  -->
+					<div class="single-list">
+						<div class="row">
+							<div class="col-lg-6 col-md-6 col-12">
+								<div class="list-image overlay">
+									<img src="images/fem/sac1.jpg" alt="#">
+									<a href="#" class="buy"><i class="fa fa-shopping-bag"></i></a>
+								</div>
+							</div>
+							<div class="col-lg-6 col-md-6 col-12 no-padding">
+								<div class="content">
+									<h5 class="title"><a href="#">Sac blanc</a></h5>
+									<p class="price with-discount">3200f</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- End Single List  -->
+					<!-- Start Single List  -->
+					
+					<!-- End Single List  -->
+				</div>
+			</div>
+		</div>
+        </section>
+        
+        
+        <section class="shop-home-list section" id="shoes2">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-4 col-md-6 col-12">
+					<div class="row">
+						<div class="col-12">
+							<div class="shop-section-title">
+								<h1>En Soldes</h1>
+							</div>
+						</div>
+					</div>
+					<!-- Start Single List  -->
+					<div class="single-list">
+						<div class="row">
+							<div class="col-lg-6 col-md-6 col-12">
+								<div class="list-image overlay">
+									<img src="images/fem/24.jpg" alt="#" WIDTH=140 HEIGHT=115>
+									<a href="#" class="buy"><i class="fa fa-shopping-bag"></i></a>
+								</div>
+							</div>
+							<div class="col-lg-6 col-md-6 col-12 no-padding">
+								<div class="content">
+									<h4 class="title"><a href="#">Basketes Fille</a></h4>
+									<p class="price with-discount">6000f</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					
+					
+					<!-- End Single List  -->
+				</div>
+				<div class="col-lg-4 col-md-6 col-12">
+					<div class="row">
+						<div class="col-12">
+							<div class="shop-section-title">
+								<h1>Best Seller</h1>
+							</div>
+						</div>
+					</div>
+					<!-- Start Single List  -->
+					<div class="single-list">
+						<div class="row">
+							<div class="col-lg-6 col-md-6 col-12">
+								<div class="list-image overlay">
+									<img src="images/fem/23.jpg" alt="#">
+									<a href="#" class="buy"><i class="fa fa-shopping-bag"></i></a>
+								</div>
+							</div>
+							<div class="col-lg-6 col-md-6 col-12 no-padding">
+								<div class="content">
+									<h5 class="title"><a href="#">Chaussure Noire</a></h5>
+									<p class="price with-discount">18000f</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- End Single List  -->
+					
+					
+					<!-- End Single List  -->
+				</div>
+				<div class="col-lg-4 col-md-6 col-12">
+					<div class="row">
+						<div class="col-12">
+							<div class="shop-section-title">
+								<h1>Top viewed</h1>
+							</div>
+						</div>
+					</div>
+					<!-- Start Single List  -->
+					<div class="single-list">
+						<div class="row">
+							<div class="col-lg-6 col-md-6 col-12">
+								<div class="list-image overlay">
+									<img src="images/fem/34.jpg" alt="#">
+									<a href="#" class="buy"><i class="fa fa-shopping-bag"></i></a>
+								</div>
+							</div>
+							<div class="col-lg-6 col-md-6 col-12 no-padding">
+								<div class="content">
+									<h5 class="title"><a href="#">Balerine</a></h5>
+									<p class="price with-discount">3200f</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					
+				</div>
+			</div>
+		</div>
+        </section>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
             <section class="shop-newsletter section">
 		<div class="container">
 			<div class="inner-top">

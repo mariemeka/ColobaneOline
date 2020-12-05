@@ -126,7 +126,7 @@
                                             <div class="col-xl-3 col-lg-4 col-md-4 col-12">
                                                 <div class="single-product">
                                                     <div class="product-img">
-                                                        <a href="product-details.html">
+                                                        <a href="/ColobaneOline/ProductDetails">
                                                             <img class="default-img" src="images/hom/36.jpg" alt="#">
                                                             <img class="hover-img" src="images/hom/36.jpg" alt="#">
                                                         </a>
@@ -142,7 +142,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="product-content">
-                                                        <h3><a href="product-details.html">Sac a Dos</a></h3>
+                                                        <h3><a href="/ColobaneOline/ProductDetails">Sac a Dos</a></h3>
                                                         <div class="product-price">
                                                             <span>6000f</span>
                                                         </div>
@@ -152,7 +152,7 @@
                                             <div class="col-xl-3 col-lg-4 col-md-4 col-12">
                                                 <div class="single-product">
                                                     <div class="product-img">
-                                                        <a href="product-details.html">
+                                                        <a href="/ColobaneOline/ProductDetails">
                                                             <img class="default-img" src="images/hom/9.jpg" alt="#">
                                                             <img class="hover-img" src="images/hom/10.jpg" alt="#">
                                                         </a>
@@ -168,7 +168,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="product-content">
-                                                        <h3><a href="product-details.html">Chausure homme</a></h3>
+                                                        <h3><a href="/ColobaneOline/ProductDetails">Chausure homme</a></h3>
                                                         <div class="product-price">
                                                             <span>85000f</span>
                                                         </div>
@@ -178,7 +178,7 @@
                                             <div class="col-xl-3 col-lg-4 col-md-4 col-12">
                                                 <div class="single-product">
                                                     <div class="product-img">
-                                                        <a href="product-details.html">
+                                                        <a href="/ColobaneOline/ProductDetails">
                                                             <img class="default-img" src="images/hom/31.jpg" alt="#">
                                                             <img class="hover-img" src="images/hom/33.jpg" alt="#">
                                                         </a>
@@ -194,7 +194,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="product-content">
-                                                        <h3><a href="product-details.html">Petit Short</a></h3>
+                                                        <h3><a href="/ColobaneOline/ProductDetails">Petit Short</a></h3>
                                                         <div class="product-price">
                                                             <span>2000f</span>
                                                         </div>
@@ -204,7 +204,7 @@
                                             <div class="col-xl-3 col-lg-4 col-md-4 col-12">
                                                 <div class="single-product">
                                                     <div class="product-img">
-                                                        <a href="product-details.html">
+                                                        <a href="/ColobaneOline/ProductDetails">
                                                             <img class="default-img" src="images/hom/23.jpg" alt="#">
                                                             <img class="hover-img" src="images/hom/23.jpg" alt="#">
                                                             <span class="new">New</span>
@@ -221,7 +221,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="product-content">
-                                                        <h3><a href="product-details.html">Costume bleu</a></h3>
+                                                        <h3><a href="/ColobaneOline/ProductDetails">Costume bleu</a></h3>
                                                         <div class="product-price">
                                                             <span>40000f</span>
                                                         </div>
@@ -231,7 +231,7 @@
                                             <div class="col-xl-3 col-lg-4 col-md-4 col-12">
                                                 <div class="single-product">
                                                     <div class="product-img">
-                                                        <a href="product-details.html">
+                                                        <a href="/ColobaneOline/ProductDetails">
                                                             <img class="default-img" src="images/hom/15.jpg" alt="#">
                                                             <img class="hover-img" src="images/hom/14.jpg" alt="#">
                                                         </a>
@@ -247,7 +247,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="product-content">
-                                                        <h3><a href="product-details.html">Manteaux gris</a></h3>
+                                                        <h3><a href="/ColobaneOline/ProductDetails">Manteaux gris</a></h3>
                                                         <div class="product-price">
                                                             <span>37000f</span>
                                                         </div>
@@ -257,7 +257,7 @@
                                             <div class="col-xl-3 col-lg-4 col-md-4 col-12">
                                                 <div class="single-product">
                                                     <div class="product-img">
-                                                        <a href="product-details.html">
+                                                        <a href="/ColobaneOline/ProductDetails">
                                                             <img class="default-img" src="images/hom/20.jpg" alt="#">
                                                             <img class="hover-img" src="images/hom/20.jpg" alt="#">
                                                             <span class="price-dec">30% de reduction</span>
@@ -274,7 +274,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="product-content">
-                                                        <h3><a href="product-details.html">Manteaux</a></h3>
+                                                        <h3><a href="/ColobaneOline/ProductDetails">Manteaux</a></h3>
                                                         <div class="product-price">
                                                             <span>22000f</span>
                                                         </div>
@@ -284,7 +284,7 @@
                                             <div class="col-xl-3 col-lg-4 col-md-4 col-12">
                                                 <div class="single-product">
                                                     <div class="product-img">
-                                                        <a href="product-details.html">
+                                                        <a href="/ColobaneOline/ProductDetails">
                                                             <img class="default-img" src="images/hom/18.jpeg" alt="#">
                                                             <img class="hover-img" src="images/hom/16.jpg" alt="#">
                                                         </a>
@@ -300,7 +300,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="product-content">
-                                                        <h3><a href="product-details.html">basketes </a></h3>
+                                                        <h3><a href="/ColobaneOline/ProductDetails">basketes </a></h3>
                                                         <div class="product-price">
                                                             <span>22000f</span>
                                                         </div>
@@ -310,7 +310,7 @@
                                             <div class="col-xl-3 col-lg-4 col-md-4 col-12">
                                                 <div class="single-product">
                                                     <div class="product-img">
-                                                        <a href="product-details.html">
+                                                        <a href="/ColobaneOline/ProductDetails">
                                                             <img class="default-img" src="images/hom/19.png" alt="#">
                                                             <img class="hover-img" src="images/hom/20.jpg" alt="#">
                                                             <span class="out-of-stock">Froid</span>
@@ -327,7 +327,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="product-content">
-                                                        <h3><a href="product-details.html">Manteaux</a></h3>
+                                                        <h3><a href="/ColobaneOline/ProductDetails">Manteaux</a></h3>
                                                         <div class="product-price">
                                                             <span class="old">47000f</span>
                                                             <span>37500</span>
@@ -347,7 +347,7 @@
                                             <div class="col-xl-3 col-lg-4 col-md-4 col-12">
                                                 <div class="single-product">
                                                     <div class="product-img">
-                                                        <a href="product-details.html">
+                                                        <a href="/ColobaneOline/ProductDetails">
                                                             <img class="default-img" src="images/fem/18.jpg" alt="#">
                                                             <img class="hover-img" src="images/fem/19.jpg" alt="#">
                                                         </a>
@@ -363,7 +363,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="product-content">
-                                                        <h3><a href="product-details.html">Basketes</a></h3>
+                                                        <h3><a href="/ColobaneOline/ProductDetails">Basketes</a></h3>
                                                         <div class="product-price">
                                                             <span>17500f</span>
                                                         </div>
@@ -373,7 +373,7 @@
                                             <div class="col-xl-3 col-lg-4 col-md-4 col-12">
                                                 <div class="single-product">
                                                     <div class="product-img">
-                                                        <a href="product-details.html">
+                                                        <a href="/ColobaneOline/ProductDetails">
                                                             <img class="default-img" src="images/fem/16.jpg" alt="#">
                                                             <img class="hover-img" src="images/fem/17.jpg" alt="#">
                                                         </a>
@@ -389,7 +389,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="product-content">
-                                                        <h3><a href="product-details.html">Body coton</a></h3>
+                                                        <h3><a href="/ColobaneOline/ProductDetails">Body coton</a></h3>
                                                         <div class="product-price">
                                                             <span>1300f</span>
                                                         </div>
@@ -399,7 +399,7 @@
                                             <div class="col-xl-3 col-lg-4 col-md-4 col-12">
                                                 <div class="single-product">
                                                     <div class="product-img">
-                                                        <a href="product-details.html">
+                                                        <a href="/ColobaneOline/ProductDetails">
                                                             <img class="default-img" src="images/fem/sac.jpg" alt="#">
                                                             <img class="hover-img" src="images/fem/sac2.jpg" alt="#">
                                                         </a>
@@ -415,7 +415,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="product-content">
-                                                        <h3><a href="product-details.html">Sac a main rouge</a></h3>
+                                                        <h3><a href="/ColobaneOline/ProductDetails">Sac a main rouge</a></h3>
                                                         <div class="product-price">
                                                             <span>6000f</span>
                                                         </div>
@@ -425,7 +425,7 @@
                                             <div class="col-xl-3 col-lg-4 col-md-4 col-12">
                                                 <div class="single-product">
                                                     <div class="product-img">
-                                                        <a href="product-details.html">
+                                                        <a href="/ColobaneOline/ProductDetails">
                                                             <img class="default-img" src="images/fem/robe2.jpg" alt="#">
                                                             <img class="hover-img" src="images/fem/robe2.jpg" alt="#">
                                                             <span class="new">New</span>
@@ -442,7 +442,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="product-content">
-                                                        <h3><a href="product-details.html">Robe rouge blanche</a></h3>
+                                                        <h3><a href="/ColobaneOline/ProductDetails">Robe rouge blanche</a></h3>
                                                         <div class="product-price">
                                                             <span>35000f</span>
                                                         </div>
@@ -452,7 +452,7 @@
                                             <div class="col-xl-3 col-lg-4 col-md-4 col-12">
                                                 <div class="single-product">
                                                     <div class="product-img">
-                                                        <a href="product-details.html">
+                                                        <a href="/ColobaneOline/ProductDetails">
                                                             <img class="default-img" src="images/fem/7.jpg" alt="#">
                                                             <img class="hover-img" src="images/fem/6.jpg" alt="#">
                                                         </a>
@@ -468,7 +468,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="product-content">
-                                                        <h3><a href="product-details.html">Robe elegante</a></h3>
+                                                        <h3><a href="/ColobaneOline/ProductDetails">Robe elegante</a></h3>
                                                         <div class="product-price">
                                                             <span>13000f</span>
                                                         </div>
@@ -478,7 +478,7 @@
                                             <div class="col-xl-3 col-lg-4 col-md-4 col-12">
                                                 <div class="single-product">
                                                     <div class="product-img">
-                                                        <a href="product-details.html">
+                                                        <a href="/ColobaneOline/ProductDetails">
                                                             <img class="default-img" src="images/fem/28.jpg" alt="#">
                                                             <img class="hover-img" src="images/fem/28.jpg" alt="#">
                                                             <span class="price-dec">30% de reduction</span>
@@ -495,7 +495,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="product-content">
-                                                        <h3><a href="product-details.html">Sac a main</a></h3>
+                                                        <h3><a href="/ColobaneOline/ProductDetails">Sac a main</a></h3>
                                                         <div class="product-price">
                                                             <span>4000f</span>
                                                         </div>
@@ -505,7 +505,7 @@
                                             <div class="col-xl-3 col-lg-4 col-md-4 col-12">
                                                 <div class="single-product">
                                                     <div class="product-img">
-                                                        <a href="product-details.html">
+                                                        <a href="/ColobaneOline/ProductDetails">
                                                             <img class="default-img" src="images/fem/22.jpg" alt="#">
                                                             <img class="hover-img" src="images/fem/22.jpg" alt="#">
                                                         </a>
@@ -521,7 +521,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="product-content">
-                                                        <h3><a href="product-details.html">Chaussures</a></h3>
+                                                        <h3><a href="/ColobaneOline/ProductDetails">Chaussures</a></h3>
                                                         <div class="product-price">
                                                             <span>15000f</span>
                                                         </div>
@@ -531,7 +531,7 @@
                                             <div class="col-xl-3 col-lg-4 col-md-4 col-12">
                                                 <div class="single-product">
                                                     <div class="product-img">
-                                                        <a href="product-details.html">
+                                                        <a href="/ColobaneOline/ProductDetails">
                                                             <img class="default-img" src="images/fem/29.jpg" alt="#">
                                                             <img class="hover-img" src="images/fem/29.jpg" alt="#">
                                                             <span class="out-of-stock">Froid</span>
@@ -548,7 +548,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="product-content">
-                                                        <h3><a href="product-details.html">Jupe Large</a></h3>
+                                                        <h3><a href="/ColobaneOline/ProductDetails">Jupe Large</a></h3>
                                                         <div class="product-price">
                                                             <span class="old">7900f</span>
                                                             <span>6000f</span>
@@ -567,7 +567,7 @@
                                             <div class="col-xl-3 col-lg-4 col-md-4 col-12">
                                                 <div class="single-product">
                                                     <div class="product-img">
-                                                        <a href="product-details.html">
+                                                        <a href="/ColobaneOline/ProductDetails">
                                                             <img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
                                                             <img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
                                                         </a>
@@ -583,7 +583,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="product-content">
-                                                        <h3><a href="product-details.html">Détails</a></h3>
+                                                        <h3><a href="/ColobaneOline/ProductDetails">Détails</a></h3>
                                                         <div class="product-price">
                                                             <span>Prix</span>
                                                         </div>
@@ -593,7 +593,7 @@
                                             <div class="col-xl-3 col-lg-4 col-md-4 col-12">
                                                 <div class="single-product">
                                                     <div class="product-img">
-                                                        <a href="product-details.html">
+                                                        <a href="/ColobaneOline/ProductDetails">
                                                             <img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
                                                             <img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
                                                         </a>
@@ -609,7 +609,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="product-content">
-                                                        <h3><a href="product-details.html">Détails</a></h3>
+                                                        <h3><a href="/ColobaneOline/ProductDetails">Détails</a></h3>
                                                         <div class="product-price">
                                                             <span>Prix</span>
                                                         </div>
@@ -619,7 +619,7 @@
                                             <div class="col-xl-3 col-lg-4 col-md-4 col-12">
                                                 <div class="single-product">
                                                     <div class="product-img">
-                                                        <a href="product-details.html">
+                                                        <a href="/ColobaneOline/ProductDetails">
                                                             <img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
                                                             <img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
                                                         </a>
@@ -635,7 +635,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="product-content">
-                                                        <h3><a href="product-details.html">Panier</a></h3>
+                                                        <h3><a href="/ColobaneOline/ProductDetails">Panier</a></h3>
                                                         <div class="product-price">
                                                             <span>Prix</span>
                                                         </div>
@@ -645,7 +645,7 @@
                                             <div class="col-xl-3 col-lg-4 col-md-4 col-12">
                                                 <div class="single-product">
                                                     <div class="product-img">
-                                                        <a href="product-details.html">
+                                                        <a href="/ColobaneOline/ProductDetails">
                                                             <img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
                                                             <img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
                                                             <span class="new">Nouveauté</span>
@@ -662,7 +662,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="product-content">
-                                                        <h3><a href="product-details.html">Détails</a></h3>
+                                                        <h3><a href="/ColobaneOline/ProductDetails">Détails</a></h3>
                                                         <div class="product-price">
                                                             <span>Prix</span>
                                                         </div>
@@ -672,7 +672,7 @@
                                             <div class="col-xl-3 col-lg-4 col-md-4 col-12">
                                                 <div class="single-product">
                                                     <div class="product-img">
-                                                        <a href="product-details.html">
+                                                        <a href="/ColobaneOline/ProductDetails">
                                                             <img class="default-img" src="images/fem/12.jpg" alt="#">
                                                             <img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
                                                         </a>
@@ -688,7 +688,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="product-content">
-                                                        <h3><a href="product-details.html">Détails</a></h3>
+                                                        <h3><a href="/ColobaneOline/ProductDetails">Détails</a></h3>
                                                         <div class="product-price">
                                                             <span>Prix</span>
                                                         </div>
@@ -698,7 +698,7 @@
                                             <div class="col-xl-3 col-lg-4 col-md-4 col-12">
                                                 <div class="single-product">
                                                     <div class="product-img">
-                                                        <a href="product-details.html">
+                                                        <a href="/ColobaneOline/ProductDetails">
                                                             <img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
                                                             <img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
                                                             <span class="price-dec">30% Off</span>
@@ -715,7 +715,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="product-content">
-                                                        <h3><a href="product-details.html">Awesome Cap For Women</a></h3>
+                                                        <h3><a href="/ColobaneOline/ProductDetails">Awesome Cap For Women</a></h3>
                                                         <div class="product-price">
                                                             <span>$29.00</span>
                                                         </div>
@@ -725,7 +725,7 @@
                                             <div class="col-xl-3 col-lg-4 col-md-4 col-12">
                                                 <div class="single-product">
                                                     <div class="product-img">
-                                                        <a href="product-details.html">
+                                                        <a href="/ColobaneOline/ProductDetails">
                                                             <img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
                                                             <img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
                                                         </a>
@@ -741,7 +741,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="product-content">
-                                                        <h3><a href="product-details.html">Polo Dress For Women</a></h3>
+                                                        <h3><a href="/ColobaneOline/ProductDetails">Polo Dress For Women</a></h3>
                                                         <div class="product-price">
                                                             <span>$29.00</span>
                                                         </div>
@@ -751,7 +751,7 @@
                                             <div class="col-xl-3 col-lg-4 col-md-4 col-12">
                                                 <div class="single-product">
                                                     <div class="product-img">
-                                                        <a href="product-details.html">
+                                                        <a href="/ColobaneOline/ProductDetails">
                                                             <img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
                                                             <img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
                                                             <span class="out-of-stock">Hot</span>
@@ -768,7 +768,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="product-content">
-                                                        <h3><a href="product-details.html">Black Sunglass For Women</a></h3>
+                                                        <h3><a href="/ColobaneOline/ProductDetails">Black Sunglass For Women</a></h3>
                                                         <div class="product-price">
                                                             <span class="old">$60.00</span>
                                                             <span>$50.00</span>
@@ -787,7 +787,7 @@
                                             <div class="col-xl-3 col-lg-4 col-md-4 col-12">
                                                 <div class="single-product">
                                                     <div class="product-img">
-                                                        <a href="product-details.html">
+                                                        <a href="/ColobaneOline/ProductDetails">
                                                             <img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
                                                             <img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
                                                         </a>
@@ -803,7 +803,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="product-content">
-                                                        <h3><a href="product-details.html">Women Hot Collection</a></h3>
+                                                        <h3><a href="/ColobaneOline/ProductDetails">Women Hot Collection</a></h3>
                                                         <div class="product-price">
                                                             <span>$29.00</span>
                                                         </div>
@@ -813,7 +813,7 @@
                                             <div class="col-xl-3 col-lg-4 col-md-4 col-12">
                                                 <div class="single-product">
                                                     <div class="product-img">
-                                                        <a href="product-details.html">
+                                                        <a href="/ColobaneOline/ProductDetails">
                                                             <img class="default-img" src="images/9.jpg" alt="#">
                                                             <img class="hover-img" src="images/9.jpg" alt="#">
                                                         </a>
@@ -829,7 +829,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="product-content">
-                                                        <h3><a href="product-details.html">Awesome Pink Show</a></h3>
+                                                        <h3><a href="/ColobaneOline/ProductDetails">Awesome Pink Show</a></h3>
                                                         <div class="product-price">
                                                             <span>$29.00</span>
                                                         </div>
@@ -839,7 +839,7 @@
                                             <div class="col-xl-3 col-lg-4 col-md-4 col-12">
                                                 <div class="single-product">
                                                     <div class="product-img">
-                                                        <a href="product-details.html">
+                                                        <a href="/ColobaneOline/ProductDetails">
                                                             <img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
                                                             <img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
                                                         </a>
@@ -855,7 +855,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="product-content">
-                                                        <h3><a href="product-details.html">Awesome Bags Collection</a></h3>
+                                                        <h3><a href="/ColobaneOline/ProductDetails">Awesome Bags Collection</a></h3>
                                                         <div class="product-price">
                                                             <span>$29.00</span>
                                                         </div>
@@ -865,7 +865,7 @@
                                             <div class="col-xl-3 col-lg-4 col-md-4 col-12">
                                                 <div class="single-product">
                                                     <div class="product-img">
-                                                        <a href="product-details.html">
+                                                        <a href="/ColobaneOline/ProductDetails">
                                                             <img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
                                                             <img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
                                                             <span class="new">New</span>
@@ -882,7 +882,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="product-content">
-                                                        <h3><a href="product-details.html">Women Pant Collectons</a></h3>
+                                                        <h3><a href="/ColobaneOline/ProductDetails">Women Pant Collectons</a></h3>
                                                         <div class="product-price">
                                                             <span>$29.00</span>
                                                         </div>
@@ -892,7 +892,7 @@
                                             <div class="col-xl-3 col-lg-4 col-md-4 col-12">
                                                 <div class="single-product">
                                                     <div class="product-img">
-                                                        <a href="product-details.html">
+                                                        <a href="/ColobaneOline/ProductDetails">
                                                             <img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
                                                             <img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
                                                         </a>
@@ -908,7 +908,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="product-content">
-                                                        <h3><a href="product-details.html">Awesome Bags Collection</a></h3>
+                                                        <h3><a href="/ColobaneOline/ProductDetails">Awesome Bags Collection</a></h3>
                                                         <div class="product-price">
                                                             <span>$29.00</span>
                                                         </div>
@@ -918,7 +918,7 @@
                                             <div class="col-xl-3 col-lg-4 col-md-4 col-12">
                                                 <div class="single-product">
                                                     <div class="product-img">
-                                                        <a href="product-details.html">
+                                                        <a href="/ColobaneOline/ProductDetails">
                                                             <img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
                                                             <img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
                                                             <span class="price-dec">30% Off</span>
@@ -935,7 +935,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="product-content">
-                                                        <h3><a href="product-details.html">Awesome Cap For Women</a></h3>
+                                                        <h3><a href="/ColobaneOline/ProductDetails">Awesome Cap For Women</a></h3>
                                                         <div class="product-price">
                                                             <span>$29.00</span>
                                                         </div>
@@ -945,7 +945,7 @@
                                             <div class="col-xl-3 col-lg-4 col-md-4 col-12">
                                                 <div class="single-product">
                                                     <div class="product-img">
-                                                        <a href="product-details.html">
+                                                        <a href="/ColobaneOline/ProductDetails">
                                                             <img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
                                                             <img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
                                                         </a>
@@ -961,7 +961,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="product-content">
-                                                        <h3><a href="product-details.html">Polo Dress For Women</a></h3>
+                                                        <h3><a href="/ColobaneOline/ProductDetails">Polo Dress For Women</a></h3>
                                                         <div class="product-price">
                                                             <span>$29.00</span>
                                                         </div>
@@ -971,7 +971,7 @@
                                             <div class="col-xl-3 col-lg-4 col-md-4 col-12">
                                                 <div class="single-product">
                                                     <div class="product-img">
-                                                        <a href="product-details.html">
+                                                        <a href="/ColobaneOline/ProductDetails">
                                                             <img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
                                                             <img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
                                                             <span class="out-of-stock">Hot</span>
@@ -988,7 +988,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="product-content">
-                                                        <h3><a href="product-details.html">Black Sunglass For Women</a></h3>
+                                                        <h3><a href="/ColobaneOline/ProductDetails">Black Sunglass For Women</a></h3>
                                                         <div class="product-price">
                                                             <span class="old">$60.00</span>
                                                             <span>$50.00</span>
@@ -1007,7 +1007,7 @@
                                             <div class="col-xl-3 col-lg-4 col-md-4 col-12">
                                                 <div class="single-product">
                                                     <div class="product-img">
-                                                        <a href="product-details.html">
+                                                        <a href="/ColobaneOline/ProductDetails">
                                                             <img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
                                                             <img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
                                                         </a>
@@ -1023,7 +1023,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="product-content">
-                                                        <h3><a href="product-details.html">Women Hot Collection</a></h3>
+                                                        <h3><a href="/ColobaneOline/ProductDetails">Women Hot Collection</a></h3>
                                                         <div class="product-price">
                                                             <span>$29.00</span>
                                                         </div>
@@ -1033,7 +1033,7 @@
                                             <div class="col-xl-3 col-lg-4 col-md-4 col-12">
                                                 <div class="single-product">
                                                     <div class="product-img">
-                                                        <a href="product-details.html">
+                                                        <a href="/ColobaneOline/ProductDetails">
                                                             <img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
                                                             <img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
                                                         </a>
@@ -1049,7 +1049,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="product-content">
-                                                        <h3><a href="product-details.html">Awesome Pink Show</a></h3>
+                                                        <h3><a href="/ColobaneOline/ProductDetails">Awesome Pink Show</a></h3>
                                                         <div class="product-price">
                                                             <span>$29.00</span>
                                                         </div>
@@ -1059,7 +1059,7 @@
                                             <div class="col-xl-3 col-lg-4 col-md-4 col-12">
                                                 <div class="single-product">
                                                     <div class="product-img">
-                                                        <a href="product-details.html">
+                                                        <a href="/ColobaneOline/ProductDetails">
                                                             <img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
                                                             <img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
                                                         </a>
@@ -1075,7 +1075,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="product-content">
-                                                        <h3><a href="product-details.html">Awesome Bags Collection</a></h3>
+                                                        <h3><a href="/ColobaneOline/ProductDetails">Awesome Bags Collection</a></h3>
                                                         <div class="product-price">
                                                             <span>$29.00</span>
                                                         </div>
@@ -1085,7 +1085,7 @@
                                             <div class="col-xl-3 col-lg-4 col-md-4 col-12">
                                                 <div class="single-product">
                                                     <div class="product-img">
-                                                        <a href="product-details.html">
+                                                        <a href="/ColobaneOline/ProductDetails">
                                                             <img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
                                                             <img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
                                                             <span class="new">New</span>
@@ -1102,7 +1102,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="product-content">
-                                                        <h3><a href="product-details.html">Women Pant Collectons</a></h3>
+                                                        <h3><a href="/ColobaneOline/ProductDetails">Women Pant Collectons</a></h3>
                                                         <div class="product-price">
                                                             <span>$29.00</span>
                                                         </div>
@@ -1112,7 +1112,7 @@
                                             <div class="col-xl-3 col-lg-4 col-md-4 col-12">
                                                 <div class="single-product">
                                                     <div class="product-img">
-                                                        <a href="product-details.html">
+                                                        <a href="/ColobaneOline/ProductDetails">
                                                             <img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
                                                             <img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
                                                         </a>
@@ -1128,7 +1128,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="product-content">
-                                                        <h3><a href="product-details.html">Awesome Bags Collection</a></h3>
+                                                        <h3><a href="/ColobaneOline/ProductDetails">Awesome Bags Collection</a></h3>
                                                         <div class="product-price">
                                                             <span>$29.00</span>
                                                         </div>
@@ -1138,7 +1138,7 @@
                                             <div class="col-xl-3 col-lg-4 col-md-4 col-12">
                                                 <div class="single-product">
                                                     <div class="product-img">
-                                                        <a href="product-details.html">
+                                                        <a href="/ColobaneOline/ProductDetails">
                                                             <img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
                                                             <img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
                                                             <span class="price-dec">30% Off</span>
@@ -1155,7 +1155,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="product-content">
-                                                        <h3><a href="product-details.html">Awesome Cap For Women</a></h3>
+                                                        <h3><a href="/ColobaneOline/ProductDetails">Awesome Cap For Women</a></h3>
                                                         <div class="product-price">
                                                             <span>$29.00</span>
                                                         </div>
@@ -1165,7 +1165,7 @@
                                             <div class="col-xl-3 col-lg-4 col-md-4 col-12">
                                                 <div class="single-product">
                                                     <div class="product-img">
-                                                        <a href="product-details.html">
+                                                        <a href="/ColobaneOline/ProductDetails">
                                                             <img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
                                                             <img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
                                                         </a>
@@ -1181,7 +1181,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="product-content">
-                                                        <h3><a href="product-details.html">Polo Dress For Women</a></h3>
+                                                        <h3><a href="/ColobaneOline/ProductDetails">Polo Dress For Women</a></h3>
                                                         <div class="product-price">
                                                             <span>$29.00</span>
                                                         </div>
@@ -1191,7 +1191,7 @@
                                             <div class="col-xl-3 col-lg-4 col-md-4 col-12">
                                                 <div class="single-product">
                                                     <div class="product-img">
-                                                        <a href="product-details.html">
+                                                        <a href="/ColobaneOline/ProductDetails">
                                                             <img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
                                                             <img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
                                                             <span class="out-of-stock">Hot</span>
@@ -1208,7 +1208,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="product-content">
-                                                        <h3><a href="product-details.html">Black Sunglass For Women</a></h3>
+                                                        <h3><a href="/ColobaneOline/ProductDetails">Black Sunglass For Women</a></h3>
                                                         <div class="product-price">
                                                             <span class="old">$60.00</span>
                                                             <span>$50.00</span>
@@ -1227,7 +1227,7 @@
                                             <div class="col-xl-3 col-lg-4 col-md-4 col-12">
                                                 <div class="single-product">
                                                     <div class="product-img">
-                                                        <a href="product-details.html">
+                                                        <a href="/ColobaneOline/ProductDetails">
                                                             <img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
                                                             <img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
                                                         </a>
@@ -1243,7 +1243,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="product-content">
-                                                        <h3><a href="product-details.html">Women Hot Collection</a></h3>
+                                                        <h3><a href="/ColobaneOline/ProductDetails">Women Hot Collection</a></h3>
                                                         <div class="product-price">
                                                             <span>$29.00</span>
                                                         </div>
@@ -1253,7 +1253,7 @@
                                             <div class="col-xl-3 col-lg-4 col-md-4 col-12">
                                                 <div class="single-product">
                                                     <div class="product-img">
-                                                        <a href="product-details.html">
+                                                        <a href="/ColobaneOline/ProductDetails">
                                                             <img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
                                                             <img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
                                                         </a>
@@ -1269,7 +1269,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="product-content">
-                                                        <h3><a href="product-details.html">Awesome Pink Show</a></h3>
+                                                        <h3><a href="/ColobaneOline/ProductDetails">Awesome Pink Show</a></h3>
                                                         <div class="product-price">
                                                             <span>$29.00</span>
                                                         </div>
@@ -1279,7 +1279,7 @@
                                             <div class="col-xl-3 col-lg-4 col-md-4 col-12">
                                                 <div class="single-product">
                                                     <div class="product-img">
-                                                        <a href="product-details.html">
+                                                        <a href="/ColobaneOline/ProductDetails">
                                                             <img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
                                                             <img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
                                                         </a>
@@ -1295,7 +1295,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="product-content">
-                                                        <h3><a href="product-details.html">Awesome Bags Collection</a></h3>
+                                                        <h3><a href="/ColobaneOline/ProductDetails">Awesome Bags Collection</a></h3>
                                                         <div class="product-price">
                                                             <span>$29.00</span>
                                                         </div>
@@ -1305,7 +1305,7 @@
                                             <div class="col-xl-3 col-lg-4 col-md-4 col-12">
                                                 <div class="single-product">
                                                     <div class="product-img">
-                                                        <a href="product-details.html">
+                                                        <a href="/ColobaneOline/ProductDetails">
                                                             <img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
                                                             <img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
                                                             <span class="new">New</span>
@@ -1322,7 +1322,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="product-content">
-                                                        <h3><a href="product-details.html">Women Pant Collectons</a></h3>
+                                                        <h3><a href="/ColobaneOline/ProductDetails">Women Pant Collectons</a></h3>
                                                         <div class="product-price">
                                                             <span>$29.00</span>
                                                         </div>
@@ -1332,7 +1332,7 @@
                                             <div class="col-xl-3 col-lg-4 col-md-4 col-12">
                                                 <div class="single-product">
                                                     <div class="product-img">
-                                                        <a href="product-details.html">
+                                                        <a href="/ColobaneOline/ProductDetails">
                                                             <img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
                                                             <img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
                                                         </a>
@@ -1348,7 +1348,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="product-content">
-                                                        <h3><a href="product-details.html">Détails</a></h3>
+                                                        <h3><a href="/ColobaneOline/ProductDetails">Détails</a></h3>
                                                         <div class="product-price">
                                                             <span>Prix</span>
                                                         </div>
@@ -1358,7 +1358,7 @@
                                             <div class="col-xl-3 col-lg-4 col-md-4 col-12">
                                                 <div class="single-product">
                                                     <div class="product-img">
-                                                        <a href="product-details.html">
+                                                        <a href="/ColobaneOline/ProductDetails">
                                                             <img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
                                                             <img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
                                                             <span class="price-dec">30% Off</span>
@@ -1375,7 +1375,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="product-content">
-                                                        <h3><a href="product-details.html">Détails</a></h3>
+                                                        <h3><a href="/ColobaneOline/ProductDetails">Détails</a></h3>
                                                         <div class="product-price">
                                                             <span>Prix</span>
                                                         </div>
@@ -1385,7 +1385,7 @@
                                             <div class="col-xl-3 col-lg-4 col-md-4 col-12">
                                                 <div class="single-product">
                                                     <div class="product-img">
-                                                        <a href="product-details.html">
+                                                        <a href="/ColobaneOline/ProductDetails">
                                                             <img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
                                                             <img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
                                                         </a>
@@ -1401,7 +1401,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="product-content">
-                                                        <h3><a href="product-details.html">Détails</a></h3>
+                                                        <h3><a href="/ColobaneOline/ProductDetails">Détails</a></h3>
                                                         <div class="product-price">
                                                             <span>Prix</span>
                                                         </div>
@@ -1411,7 +1411,7 @@
                                             <div class="col-xl-3 col-lg-4 col-md-4 col-12">
                                                 <div class="single-product">
                                                     <div class="product-img">
-                                                        <a href="product-details.html">
+                                                        <a href="/ColobaneOline/ProductDetails">
                                                             <img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
                                                             <img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
                                                             <span class="out-of-stock">Chaud</span>
@@ -1428,7 +1428,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="product-content">
-                                                        <h3><a href="product-details.html">Détails</a></h3>
+                                                        <h3><a href="/ColobaneOline/ProductDetails">Détails</a></h3>
                                                         <div class="product-price">
                                                             <span class="old">Ancien prix</span>
                                                             <span>Prix</span>
@@ -1497,7 +1497,7 @@
                             <!-- Start Single Product -->
                             <div class="single-product">
                                 <div class="product-img">
-                                    <a href="product-details.html">
+                                    <a href="/ColobaneOline/ProductDetails">
                                         <img class="default-img" src="images/marmitte.jpg" alt="#">
                                         <img class="hover-img" src="images/marmitte.jpg" alt="#">
                                         <span class="out-of-stock">Chaud</span>
@@ -1514,7 +1514,7 @@
                                     </div>
                                 </div>
                                 <div class="product-content">
-                                    <h3><a href="product-details.html">Marmitte Large</a></h3>
+                                    <h3><a href="/ColobaneOline/ProductDetails">Marmitte Large</a></h3>
                                     <div class="product-price">
                                         <span class="old">4500f</span>
                                         <span>3000f</span>
@@ -1525,7 +1525,7 @@
                             <!-- Start Single Product -->
                             <div class="single-product">
                                 <div class="product-img">
-                                    <a href="product-details.html">
+                                    <a href="/ColobaneOline/ProductDetails">
                                         <img class="default-img" src="images/café2.jpg" alt="#">
                                         <img class="hover-img" src="images/café2.jpg" alt="#">
                                     </a>
@@ -1541,7 +1541,7 @@
                                     </div>
                                 </div>
                                 <div class="product-content">
-                                    <h3><a href="product-details.html">Machine a café</a></h3>
+                                    <h3><a href="/ColobaneOline/ProductDetails">Machine a café</a></h3>
                                     <div class="product-price">
                                         <span>7000f</span>
                                     </div>
@@ -1551,7 +1551,7 @@
                             <!-- Start Single Product -->
                             <div class="single-product">
                                 <div class="product-img">
-                                    <a href="product-details.html">
+                                    <a href="/ColobaneOline/ProductDetails">
                                         <img class="default-img" src="images/cuisine/chauffe_eau.jpg" alt="#">
                                         <img class="hover-img" src="images/cuisine/chauffe_eau.jpg" alt="#">
                                         <span class="new">Nouveau</span>
@@ -1568,7 +1568,7 @@
                                     </div>
                                 </div>
                                 <div class="product-content">
-                                    <h3><a href="product-details.html">Chauffe Eau</a></h3>
+                                    <h3><a href="/ColobaneOline/ProductDetails">Chauffe Eau</a></h3>
                                     <div class="product-price">
                                         <span>4000f</span>
                                     </div>
@@ -1594,7 +1594,7 @@
                                     </div>
                                 </div>
                                 <div class="product-content">
-                                    <h3><a href="product-details.html">Machine a café</a></h3>
+                                    <h3><a href="/ColobaneOline/ProductDetails">Machine a café</a></h3>
                                     <div class="product-price">
                                         <span>17000f</span>
                                     </div>
@@ -1626,12 +1626,12 @@
                                 <div class="col-lg-6 col-md-6 col-12">
                                     <div class="list-image overlay">
                                         <img src="images/cuisine/ferre.jpg" alt="#" WIDTH=140 HEIGHT=115>
-                                        <a href="#" class="buy"><i class="fa fa-shopping-bag"></i></a>
+                                        <a href="/ColobaneOline/ProductDetails" class="buy"><i class="fa fa-shopping-bag"></i></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-12 no-padding">
                                     <div class="content">
-                                        <h4 class="title"><a href="#">Ferre Electrique</a></h4>
+                                        <h4 class="title"><a href="/ColobaneOline/ProductDetails">Ferre Electrique</a></h4>
                                         <p class="price with-discount">19000f</p>
                                     </div>
                                 </div>
@@ -1644,12 +1644,12 @@
                                 <div class="col-lg-6 col-md-6 col-12">
                                     <div class="list-image overlay">
                                         <img src="images/9.jpg" alt="#">
-                                        <a href="#" class="buy"><i class="fa fa-shopping-bag"></i></a>
+                                        <a href="/ColobaneOline/ProductDetails" class="buy"><i class="fa fa-shopping-bag"></i></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-12 no-padding">
                                     <div class="content">
-                                        <h5 class="title"><a href="#">Réfrigérateur a bas prix</a></h5>
+                                        <h5 class="title"><a href="/ColobaneOline/ProductDetails">Réfrigérateur a bas prix</a></h5>
                                         <p class="price with-discount">75000f</p>
                                     </div>
                                 </div>
@@ -1662,12 +1662,12 @@
                                 <div class="col-lg-6 col-md-6 col-12">
                                     <div class="list-image overlay">
                                         <img src="images/4.jpg" alt="#">
-                                        <a href="#" class="buy"><i class="fa fa-shopping-bag"></i></a>
+                                        <a href="/ColobaneOline/ProductDetails" class="buy"><i class="fa fa-shopping-bag"></i></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-12 no-padding">
                                     <div class="content">
-                                        <h5 class="title"><a href="#">Ferre Electrique</a></h5>
+                                        <h5 class="title"><a href="/ColobaneOline/ProductDetails">Ferre Electrique</a></h5>
                                         <p class="price with-discount">12500f</p>
                                     </div>
                                 </div>
@@ -1689,12 +1689,12 @@
                                 <div class="col-lg-6 col-md-6 col-12">
                                     <div class="list-image overlay">
                                         <img src="images/10.jpg" alt="#">
-                                        <a href="#" class="buy"><i class="fa fa-shopping-bag"></i></a>
+                                        <a href="/ColobaneOline/ProductDetails" class="buy"><i class="fa fa-shopping-bag"></i></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-12 no-padding">
                                     <div class="content">
-                                        <h5 class="title"><a href="#">Materiels de foid</a></h5>
+                                        <h5 class="title"><a href="/ColobaneOline/ProductDetails">Materiels de foid</a></h5>
                                         <p class="price with-discount">53000f</p>
                                     </div>
                                 </div>
@@ -1707,12 +1707,12 @@
                                 <div class="col-lg-6 col-md-6 col-12">
                                     <div class="list-image overlay">
                                         <img src="images/8.jpg" alt="#">
-                                        <a href="#" class="buy"><i class="fa fa-shopping-bag"></i></a>
+                                        <a href="/ColobaneOline/ProductDetails" class="buy"><i class="fa fa-shopping-bag"></i></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-12 no-padding">
                                     <div class="content">
-                                        <h5 class="title"><a href="#">Materiels de netoyage</a></h5>
+                                        <h5 class="title"><a href="/ColobaneOline/ProductDetails">Materiels de netoyage</a></h5>
                                         <p class="price with-discount">30000f</p>
                                     </div>
                                 </div>
@@ -1725,12 +1725,12 @@
                                 <div class="col-lg-6 col-md-6 col-12">
                                     <div class="list-image overlay">
                                         <img src="images/2.jpg" alt="#">
-                                        <a href="#" class="buy"><i class="fa fa-shopping-bag"></i></a>
+                                        <a href="/ColobaneOline/ProductDetails" class="buy"><i class="fa fa-shopping-bag"></i></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-12 no-padding">
                                     <div class="content">
-                                        <h5 class="title"><a href="#">Description</a></h5>
+                                        <h5 class="title"><a href="/ColobaneOline/ProductDetails">Description</a></h5>
                                         <p class="price with-discount">6000f</p>
                                     </div>
                                 </div>
@@ -1752,12 +1752,12 @@
                                 <div class="col-lg-6 col-md-6 col-12">
                                     <div class="list-image overlay">
                                         <img src="images/1.jpg" alt="#">
-                                        <a href="#" class="buy"><i class="fa fa-shopping-bag"></i></a>
+                                        <a href="/ColobaneOline/ProductDetails" class="buy"><i class="fa fa-shopping-bag"></i></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-12 no-padding">
                                     <div class="content">
-                                        <h5 class="title"><a href="#">Description</a></h5>
+                                        <h5 class="title"><a href="/ColobaneOline/ProductDetails">Description</a></h5>
                                         <p class="price with-discount">18500f</p>
                                     </div>
                                 </div>
@@ -1770,12 +1770,12 @@
                                 <div class="col-lg-6 col-md-6 col-12">
                                     <div class="list-image overlay">
                                         <img src="images/prod2.jpg" alt="#">
-                                        <a href="#" class="buy"><i class="fa fa-shopping-bag"></i></a>
+                                        <a href="/ColobaneOline/ProductDetails" class="buy"><i class="fa fa-shopping-bag"></i></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-12 no-padding">
                                     <div class="content">
-                                        <h5 class="title"><a href="#">Frigo barre </a></h5>
+                                        <h5 class="title"><a href="/ColobaneOline/ProductDetails">Frigo barre </a></h5>
                                         <p class="price with-discount">35000f</p>
                                     </div>
                                 </div>
@@ -1788,12 +1788,12 @@
                                 <div class="col-lg-6 col-md-6 col-12">
                                     <div class="list-image overlay">
                                         <img src="images/mixeur.jpg" alt="#">
-                                        <a href="#" class="buy"><i class="fa fa-shopping-bag"></i></a>
+                                        <a href="/ColobaneOline/ProductDetails" class="buy"><i class="fa fa-shopping-bag"></i></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-12 no-padding">
                                     <div class="content">
-                                        <h5 class="title"><a href="#">mixeur avec 6 plats</a></h5>
+                                        <h5 class="title"><a href="/ColobaneOline/ProductDetails">mixeur avec 6 plats</a></h5>
                                         <p class="price with-discount">18000f</p>
                                     </div>
                                 </div>

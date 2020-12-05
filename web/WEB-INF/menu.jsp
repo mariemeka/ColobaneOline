@@ -150,7 +150,7 @@
                                     <a href="#" class="single-icon"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
                                 </div>
                                 <div class="sinlge-bar">
-                                    <a href="#" class="single-icon"><i class="fa fa-user-circle-o" aria-hidden="true"></i></a>
+                                    <a href="/ColobaneOline/panier" class="single-icon"><i class="fa fa-user-circle-o" aria-hidden="true"></i></a>
                                 </div>
                                 <div class="sinlge-bar shopping">
                                     <a href="#" class="single-icon"><i class="ti-bag"></i> <span class="total-count">2</span></a>
@@ -158,7 +158,7 @@
                                     <div class="shopping-item">
                                         <div class="dropdown-cart-header">
                                             <span>2 elements</span>
-                                            <a href="#">View Cart</a>
+                                            <a href="/ColobaneOline/panier">View Cart</a>
                                         </div>
                                         <ul class="shopping-list">
                                             <li>
@@ -179,7 +179,7 @@
                                                 <span>Total</span>
                                                 <span class="total-amount">32000f</span>
                                             </div>
-                                            <a href="checkout.html" class="btn animate">Confirmer</a>
+                                            <a href="/ColobaneOline/compte" class="btn animate">Confirmer</a>
                                         </div>
                                     </div>
                                     <!--/ End Shopping Item -->
@@ -207,10 +207,10 @@
                                                         <img src="images/en.jpg" alt="#">
                                                     </div>
                                                     <div class="inner-link">
-                                                        <a href="#">Jouets pour enfant</a>
-                                                        <a href="#">robes pour fille</a>
-                                                        <a href="#">Ensemles pour enfant</a>
-                                                        <a href="#">divers pour enfant</a>
+                                                        <a href="/ColobaneOline/vetement#enfant">Jouets pour enfant</a>
+                                                        <a href="/ColobaneOline/vetement#enfant">robes pour fille</a>
+                                                        <a href="/ColobaneOline/vetement#enfant">Ensemles pour enfant</a>
+                                                        <a href="/ColobaneOline/vetement#enfant">divers pour enfant</a>
                                                     </div>
                                                 </li>
                                                 <li class="single-menu">
@@ -219,10 +219,10 @@
                                                         <img src="images/hom.jpg" alt="#">
                                                     </div>
                                                     <div class="inner-link">
-                                                        <a href="#">Chemises</a>
-                                                        <a href="#">T-shirt</a>
-                                                        <a href="#">Basckets</a>
-                                                        <a href="#">Pantalon</a>
+                                                        <a href="/ColobaneOline/vetement#hom">Chemises</a>
+                                                        <a href="/ColobaneOline/vetement#hom">T-shirt</a>
+                                                        <a href="/ColobaneOline/vetement#shoes">Basckets</a>
+                                                        <a href="/ColobaneOline/vetement#hom">Pantalon</a>
                                                     </div>
                                                 </li>
                                                 <li class="single-menu">
@@ -231,10 +231,10 @@
                                                         <img src="images/fem.jpg" alt="#">
                                                     </div>
                                                     <div class="inner-link">
-                                                        <a href="#"> T-Shirt pour Femme</a>
-                                                        <a href="#">Sac pour Femme</a>
-                                                        <a href="#">Robes pour Femme</a>
-                                                        <a href="#">Chaussures pour Femme</a>
+                                                        <a href="/ColobaneOline/vetement#fem"> T-Shirt pour Femme</a>
+                                                        <a href="/ColobaneOline/vetement#sac">Sac pour Femme</a>
+                                                        <a href="/ColobaneOline/vetement#fem">Robes pour Femme</a>
+                                                        <a href="/ColobaneOline/vetement#shoes2">Chaussures pour Femme</a>
                                                     </div>
                                                 </li>
 
@@ -263,8 +263,8 @@
 
                                         <li><a href="/ColobaneOline/cosmetique"> Cosmetique <i class="fa fa-angle-right" aria-hidden="true"></i></a>
                                             <ul class="sub-category">
-                                                <li><a href="#">Produits Hommes</a></li>
-                                                <li><a href="#">Produits Femmes</a></li>
+                                                <li><a href="/ColobaneOline/cosmetique#ho">Produits Hommes</a></li>
+                                                <li><a href="/ColobaneOline/cosmetique#fe">Produits Femmes</a></li>
 
 
                                             </ul>
@@ -295,7 +295,7 @@
                                                     <li class="active"><a href="/ColobaneOline/Acceuil">Acceuil</a></li>
                                                     <li><a href="#">Produit</a></li>												
                                                     <li><a href="#">Service</a></li>
-                                                    <li><a href="#">Boutique<i class="ti-angle-down"></i><span class="new">New</span></a>
+                                                    <li><a href="/ColobaneOline/boutique">Boutique<i class="ti-angle-down"></i><span class="new">New</span></a>
                                                     <li><a href="/ColobaneOline/contact">Contact</a></li>									
                                                     <li><a href="/ColobaneOline/Apropos">A Propos</a></li>
                                                 </ul>
