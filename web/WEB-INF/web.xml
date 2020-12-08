@@ -64,11 +64,14 @@
         <servlet-name>InsertionProduits</servlet-name>
         <servlet-class>com.vendeur.servlet.InsertionProduits</servlet-class>
     </servlet>
+<<<<<<< HEAD
     <servlet>
         <servlet-name>Home</servlet-name>
         <servlet-class>servlets.Home</servlet-class>
     </servlet>
     
+=======
+>>>>>>> 89a3fd09b867cae9a4d6c92b38ebd055e9cc744b
     <servlet-mapping>
         <servlet-name>Acceuil</servlet-name>
         <url-pattern>/</url-pattern>
@@ -128,11 +131,15 @@
         <servlet-name>PageInscriptionVendeur</servlet-name>
         <url-pattern>/PageInscriptionVendeur</url-pattern>
     </servlet-mapping>
+<<<<<<< HEAD
 
+=======
+>>>>>>> 89a3fd09b867cae9a4d6c92b38ebd055e9cc744b
     <servlet-mapping>
         <servlet-name>InsertionProduits</servlet-name>
         <url-pattern>/InsertionProduits</url-pattern>
     </servlet-mapping>
+<<<<<<< HEAD
     <servlet-mapping>
         <servlet-name>InsertionProduits</servlet-name>
         <url-pattern>/InsertionProduits</url-pattern>
@@ -145,6 +152,8 @@
         <servlet-name>Home</servlet-name>
         <url-pattern>/list</url-pattern>
     </servlet-mapping>
+=======
+>>>>>>> 89a3fd09b867cae9a4d6c92b38ebd055e9cc744b
     <session-config>
         <session-timeout>
             30
