@@ -122,6 +122,7 @@
             
         </section>
             
+<<<<<<< HEAD
               
         <section class="shop-newsletter section">
 			<div class="container">
@@ -145,6 +146,10 @@
 		</section>
 		<!-- End Shop Newsletter -->
                 <br>
+=======
+                <br><br><br>
+        
+>>>>>>> 98aa8dd7938645252175b3eafed254a850ae4bd3
         <%@include file="footer.jsp" %>
     </body>
 </html>
