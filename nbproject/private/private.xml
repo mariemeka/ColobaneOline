@@ -4,6 +4,11 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/Users/user/Documents/NetBeansProjects/ColobaneOline/src/java/com/admin/servlet/Acceuil.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/ColobaneOline/src/java/Beans/objects/Vendeur.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/ColobaneOline/web/WEB-INF/getTest.jsp</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/ColobaneOline/src/java/Beans/transactions/SQL_Update.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/ColobaneOline/web/WEB-INF/postTest.jsp</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/ColobaneOline/src/java/servlets/Home.java</file>
         </group>
     </open-files>
 </project-private>

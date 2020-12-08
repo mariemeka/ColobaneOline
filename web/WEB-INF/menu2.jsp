@@ -13,7 +13,7 @@
         <title>ColobaneOnline</title>
 
 	<!-- Favicon -->
-	<link rel="icon" type="image/png" href="images/favicon.png">
+	<link rel="icon" type="image/png" href="images/fav.png">
 	<!-- Web Font -->
 	<link href="https://fonts.googleapis.com/css?family=Poppins:200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap" rel="stylesheet">
 	
@@ -29,6 +29,7 @@
 	<link rel="stylesheet" href="css/jquery.fancybox.min.css">
 	<!-- Themify Icons -->
     <link rel="stylesheet" href="css/themify-icons.css">
+    
 	<!-- Nice Select CSS -->
     <link rel="stylesheet" href="css/niceselect.css">
 	<!-- Animate CSS -->
@@ -151,10 +152,10 @@
                                     <a href="#" class="single-icon"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
                                 </div>
                                 <div class="sinlge-bar">
-                                    <a href="/ColobaneOline/panier" class="single-icon"><i class="fa fa-user-circle-o" aria-hidden="true"></i></a>
+                                    <a href="#" class="single-icon"><i class="fa fa-user-circle-o" aria-hidden="true"></i></a>
                                 </div>
                                 <div class="sinlge-bar shopping">
-                                    <a href="#" class="single-icon"><i class="ti-bag"></i> <span class="total-count">2</span></a>
+                                    <a href="/ColobaneOline/panier" class="single-icon"><i class="ti-bag"></i> <span class="total-count">2</span></a>
                                     <!-- Shopping Item -->
                                     <div class="shopping-item">
                                         <div class="dropdown-cart-header">
@@ -204,8 +205,8 @@
                                                                                     <div class="nav-inner">	
                                                                                         <ul class="nav main-menu menu navbar-nav">
                                                                                             <li class="active"><a href="/ColobaneOline/Acceuil">Acceuil</a></li>
-                                                                                            <li><a href="#">Produit</a></li>												
-                                                                                            <li><a href="#">Service</a></li>
+                                                                                          											
+                                                                                            <li><a href="/ColobaneOline/Apropos">Service</a></li>
                                                                                             <li><a href="/ColobaneOline/boutique">Boutique<i class="ti-angle-down"></i><span class="new">New</span></a>
                                                                                             <li><a href="/ColobaneOline/contact">Contact</a></li>									
                                                                                             <li><a href="/ColobaneOline/Apropos">A Propos</a></li>

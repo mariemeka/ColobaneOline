@@ -33,9 +33,7 @@
                                                 Symbole d’élégance et de raffinement, chaque chemise CAFÉ COTON mêle audace et style pour des allures singulières.<br>
                                                 L’authenticité et le prestige des plus beaux cotons <br>, associés à notre désir d’excellence, révèlent des chemises au caractère unique<br>
                                                 à la créativité insoupçonnée.</p>
-                                            <div class="button">
-                                                <a href="#" class="btn">Achetez maintenant</a>
-                                            </div>
+                                            <br><br>
                                         </div>
                                     </div>
                                 </div>
@@ -59,7 +57,7 @@
                             <div class="content">
                                 <p>Collectons pour Homme</p>
                                 <h3>Voyage d'été <br> collection</h3>
-                                <a href="#">Decouvrir Maintenant</a>
+                                <a href="/ColobaneOline/vetement#hom">Decouvrir Maintenant</a>
                             </div>
                         </div>
                     </div>
@@ -71,7 +69,7 @@
                             <div class="content">
                                 <p>Collectons Sacs</p>
                                 <h3>Nouveautés <br> 2020</h3>
-                                <a href="#">Decouvrir Maintenant</a>
+                                <a href="/ColobaneOline/vetement#sac">Decouvrir Maintenant</a>
                             </div>
                         </div>
                     </div>
@@ -84,7 +82,7 @@
                                 <p>chemise homme</p>
                                 <h3>
                                     Mi-saison <br> Jusqu'à <span>40%</span> de réduction</h3>
-                                <a href="#">Decouvrir Maintenant</a>
+                                <a href="/ColobaneOline/vetement#hom">Decouvrir Maintenant</a>
                             </div>
                         </div>
                     </div>
@@ -137,7 +135,7 @@
                                                                 <!--a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Ajouter au Compare</span></a-->
                                                             </div>
                                                             <div class="product-action-2">
-                                                                <a title="Ajouter au cart" href="#">Ajouter au panier</a>
+                                                                <a title="Ajouter au cart" href="/ColobaneOline/panier">Ajouter au panier</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -163,7 +161,7 @@
                                                                 <!--a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Ajouter au Compare</span></a-->
                                                             </div>
                                                             <div class="product-action-2">
-                                                                <a title="Ajouter au cart" href="#">Ajouter au panier</a>
+                                                                <a title="Ajouter au cart" href="/ColobaneOline/panier">Ajouter au panier</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -189,7 +187,7 @@
                                                                 <!--a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Ajouter au Compare</span></a-->
                                                             </div>
                                                             <div class="product-action-2">
-                                                                <a title="Ajouter au cart" href="#">Ajouter au panier</a>
+                                                                <a title="Ajouter au cart" href="/ColobaneOline/panier">Ajouter au panier</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -216,7 +214,7 @@
                                                                 <!--a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Ajouter au Compare</span></a-->
                                                             </div>
                                                             <div class="product-action-2">
-                                                                <a title="Ajouter au cart" href="#">Ajouter au panier</a>
+                                                                <a title="Ajouter au cart" href="/ColobaneOline/panier">Ajouter au panier</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -242,7 +240,7 @@
                                                                 <!--a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Ajouter au Compare</span></a-->
                                                             </div>
                                                             <div class="product-action-2">
-                                                                <a title="Ajouter au cart" href="#">Ajouter au panier</a>
+                                                                <a title="Ajouter au cart" href="/ColobaneOline/panier">Ajouter au panier</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -269,7 +267,7 @@
                                                                 <!--a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Ajouter au Compare</span></a-->
                                                             </div>
                                                             <div class="product-action-2">
-                                                                <a title="Ajouter au cart" href="#">Ajouter au panier</a>
+                                                                <a title="Ajouter au cart" href="/ColobaneOline/panier">Ajouter au panier</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -295,7 +293,7 @@
                                                                 <!--a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Ajouter au Compare</span></a-->
                                                             </div>
                                                             <div class="product-action-2">
-                                                                <a title="Ajouter au cart" href="#">Ajouter au panier</a>
+                                                                <a title="Ajouter au cart" href="/ColobaneOline/panier">Ajouter au panier</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -322,7 +320,7 @@
                                                                 <!--a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Ajouter au Compare</span></a-->
                                                             </div>
                                                             <div class="product-action-2">
-                                                                <a title="Ajouter au cart" href="#">Ajouter au panier</a>
+                                                                <a title="Ajouter au cart" href="/ColobaneOline/panier">Ajouter au panier</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -358,7 +356,7 @@
                                                                 <!--a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Ajouter au Compare</span></a-->
                                                             </div>
                                                             <div class="product-action-2">
-                                                                <a title="Ajouter au panier" href="#">Ajouter au panier</a>
+                                                                <a title="Ajouter au panier" href="/ColobaneOline/panier">Ajouter au panier</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -384,7 +382,7 @@
                                                                 <!--a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Ajouter au Compare</span></a-->
                                                             </div>
                                                             <div class="product-action-2">
-                                                                <a title="Ajouter au panier" href="#">Ajouter au panier</a>
+                                                                <a title="Ajouter au panier" href="/ColobaneOline/panier">Ajouter au panier</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -410,7 +408,7 @@
                                                                 <!--a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Ajouter au Compare</span></a-->
                                                             </div>
                                                             <div class="product-action-2">
-                                                                <a title="Ajouter au panier" href="#">Ajouter au panier</a>
+                                                                <a title="Ajouter au panier" href="/ColobaneOline/panier">Ajouter au panier</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -437,7 +435,7 @@
                                                                 <!--a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Ajouter au Compare</span></a-->
                                                             </div>
                                                             <div class="product-action-2">
-                                                                <a title="Ajouter au cart" href="#">Ajouter au panier</a>
+                                                                <a title="Ajouter au cart" href="/ColobaneOline/panier">Ajouter au panier</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -463,7 +461,7 @@
                                                                 <!--a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Ajouter au Compare</span></a-->
                                                             </div>
                                                             <div class="product-action-2">
-                                                                <a title="Ajouter au cart" href="#">Ajouter au panier</a>
+                                                                <a title="Ajouter au cart" href="/ColobaneOline/panier">Ajouter au panier</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -490,7 +488,7 @@
                                                                 <!--a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Ajouter au Compare</span></a-->
                                                             </div>
                                                             <div class="product-action-2">
-                                                                <a title="Ajouter au cart" href="#">Ajouter au panier</a>
+                                                                <a title="Ajouter au cart" href="/ColobaneOline/panier">Ajouter au panier</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -516,7 +514,7 @@
                                                                 <!--a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Ajouter au Compare</span></a-->
                                                             </div>
                                                             <div class="product-action-2">
-                                                                <a title="Ajouter au cart" href="#">Ajouter au panier</a>
+                                                                <a title="Ajouter au cart" href="/ColobaneOline/panier">Ajouter au panier</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -543,7 +541,7 @@
                                                                 <!--a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Ajouter au Compare</span></a-->
                                                             </div>
                                                             <div class="product-action-2">
-                                                                <a title="Ajouter au cart" href="#">Ajouter au panier</a>
+                                                                <a title="Ajouter au cart" href="/ColobaneOline/panier">Ajouter au panier</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -578,7 +576,7 @@
                                                                 <!--a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Ajouter au Compare</span></a-->
                                                             </div>
                                                             <div class="product-action-2">
-                                                                <a title="Ajouter au cart" href="#">Ajouter au panier</a>
+                                                                <a title="Ajouter au cart" href="/ColobaneOline/panier">Ajouter au panier</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -604,7 +602,7 @@
                                                                 <!--a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Ajouter au Compare</span></a-->
                                                             </div>
                                                             <div class="product-action-2">
-                                                                <a title="Ajouter au cart" href="#">Ajouter au panier</a>
+                                                                <a title="Ajouter au cart" href="/ColobaneOline/panier">Ajouter au panier</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -630,7 +628,7 @@
                                                                 <!--a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Ajouter au Compare</span></a-->
                                                             </div>
                                                             <div class="product-action-2">
-                                                                <a title="Ajouter au cart" href="#">Ajouter au panier</a>
+                                                                <a title="Ajouter au cart" href="/ColobaneOline/panier">Ajouter au panier</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -657,7 +655,7 @@
                                                                 <!--a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Ajouter au Compare</span></a-->
                                                             </div>
                                                             <div class="product-action-2">
-                                                                <a title="Ajouter au cart" href="#">Ajouter au panier</a>
+                                                                <a title="Ajouter au cart" href="/ColobaneOline/panier">Ajouter au panier</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -683,7 +681,7 @@
                                                                 <!--a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Ajouter au Compare</span></a-->
                                                             </div>
                                                             <div class="product-action-2">
-                                                                <a title="Ajouter au cart" href="#">Ajouter au panier</a>
+                                                                <a title="Ajouter au cart" href="/ColobaneOline/panier">Ajouter au panier</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -701,7 +699,7 @@
                                                         <a href="/ColobaneOline/ProductDetails">
                                                             <img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
                                                             <img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
-                                                            <span class="price-dec">30% Off</span>
+                                                            <span class="price-dec">30% de Reduction</span>
                                                         </a>
                                                         <div class="button-head">
                                                             <div class="product-action">
@@ -710,7 +708,7 @@
                                                                 <a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Ajouter au Compare</span></a>
                                                             </div>
                                                             <div class="product-action-2">
-                                                                <a title="Ajouter au cart" href="#">Ajouter au cart</a>
+                                                                <a title="Ajouter au cart" href="/ColobaneOline/panier">Ajouter au panier</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -736,7 +734,7 @@
                                                                 <a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Ajouter au Compare</span></a>
                                                             </div>
                                                             <div class="product-action-2">
-                                                                <a title="Ajouter au cart" href="#">Ajouter au cart</a>
+                                                                <a title="Ajouter au cart" href="/ColobaneOline/panier">Ajouter au cart</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -763,7 +761,7 @@
                                                                 <a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Ajouter au Compare</span></a>
                                                             </div>
                                                             <div class="product-action-2">
-                                                                <a title="Ajouter au cart" href="#">Ajouter au cart</a>
+                                                                <a title="Ajouter au cart" href="/ColobaneOline/panier">Ajouter au cart</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -798,7 +796,7 @@
                                                                 <a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Ajouter au Compare</span></a>
                                                             </div>
                                                             <div class="product-action-2">
-                                                                <a title="Ajouter au cart" href="#">Ajouter au cart</a>
+                                                                <a title="Ajouter au cart" href="/ColobaneOline/panier">Ajouter au cart</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -824,7 +822,7 @@
                                                                 <a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Add to Compare</span></a>
                                                             </div>
                                                             <div class="product-action-2">
-                                                                <a title="Add to cart" href="#">Add to cart</a>
+                                                                <a title="Add to cart" href="/ColobaneOline/panier">Add to cart</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -850,7 +848,7 @@
                                                                 <a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Add to Compare</span></a>
                                                             </div>
                                                             <div class="product-action-2">
-                                                                <a title="Add to cart" href="#">Add to cart</a>
+                                                                <a title="Add to cart" href="/ColobaneOline/panier">Add to cart</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -877,7 +875,7 @@
                                                                 <a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Add to Compare</span></a>
                                                             </div>
                                                             <div class="product-action-2">
-                                                                <a title="Add to cart" href="#">Add to cart</a>
+                                                                <a title="Add to cart" href="/ColobaneOline/panier">Add to cart</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -903,7 +901,7 @@
                                                                 <a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Add to Compare</span></a>
                                                             </div>
                                                             <div class="product-action-2">
-                                                                <a title="Add to cart" href="#">Add to cart</a>
+                                                                <a title="Add to cart" href="/ColobaneOline/panier">Ajouter au panier</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -930,7 +928,7 @@
                                                                 <a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Add to Compare</span></a>
                                                             </div>
                                                             <div class="product-action-2">
-                                                                <a title="Add to cart" href="#">Add to cart</a>
+                                                                <a title="Add to cart" href="/ColobaneOline/panier">Add to cart</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -956,7 +954,7 @@
                                                                 <a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Add to Compare</span></a>
                                                             </div>
                                                             <div class="product-action-2">
-                                                                <a title="Add to cart" href="#">Add to cart</a>
+                                                                <a title="Add to cart" href="/ColobaneOline/panier">Add to cart</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -983,7 +981,7 @@
                                                                 <a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Add to Compare</span></a>
                                                             </div>
                                                             <div class="product-action-2">
-                                                                <a title="Add to cart" href="#">Add to cart</a>
+                                                                <a title="Add to cart" href="/ColobaneOline/panier">Add to cart</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1018,7 +1016,7 @@
                                                                 <a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Add to Compare</span></a>
                                                             </div>
                                                             <div class="product-action-2">
-                                                                <a title="Add to cart" href="#">Add to cart</a>
+                                                                <a title="Add to cart" href="/ColobaneOline/panier">Add to cart</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1044,7 +1042,7 @@
                                                                 <a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Add to Compare</span></a>
                                                             </div>
                                                             <div class="product-action-2">
-                                                                <a title="Add to cart" href="#">Add to cart</a>
+                                                                <a title="Add to cart" href="/ColobaneOline/panier">Add to cart</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1070,7 +1068,7 @@
                                                                 <a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Add to Compare</span></a>
                                                             </div>
                                                             <div class="product-action-2">
-                                                                <a title="Add to cart" href="#">Add to cart</a>
+                                                                <a title="Add to cart" href="/ColobaneOline/panier">Add to cart</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1097,7 +1095,7 @@
                                                                 <a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Add to Compare</span></a>
                                                             </div>
                                                             <div class="product-action-2">
-                                                                <a title="Add to cart" href="#">Add to cart</a>
+                                                                <a title="Add to cart" href="/ColobaneOline/panier">Add to cart</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1123,7 +1121,7 @@
                                                                 <a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Add to Compare</span></a>
                                                             </div>
                                                             <div class="product-action-2">
-                                                                <a title="Add to cart" href="#">Add to cart</a>
+                                                                <a title="Add to cart" href="/ColobaneOline/panier">Add to cart</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1150,7 +1148,7 @@
                                                                 <a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Add to Compare</span></a>
                                                             </div>
                                                             <div class="product-action-2">
-                                                                <a title="Add to cart" href="#">Add to cart</a>
+                                                                <a title="Add to cart" href="/ColobaneOline/panier">Add to cart</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1176,7 +1174,7 @@
                                                                 <a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Add to Compare</span></a>
                                                             </div>
                                                             <div class="product-action-2">
-                                                                <a title="Add to cart" href="#">Add to cart</a>
+                                                                <a title="Add to cart" href="/ColobaneOline/panier">Add to cart</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1203,7 +1201,7 @@
                                                                 <a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Add to Compare</span></a>
                                                             </div>
                                                             <div class="product-action-2">
-                                                                <a title="Add to cart" href="#">Add to cart</a>
+                                                                <a title="Add to cart" href="/ColobaneOline/panier">Add to cart</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1238,7 +1236,7 @@
                                                                 <a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Add to Compare</span></a>
                                                             </div>
                                                             <div class="product-action-2">
-                                                                <a title="Add to cart" href="#">Add to cart</a>
+                                                                <a title="Add to cart" href="/ColobaneOline/panier">Add to cart</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1264,7 +1262,7 @@
                                                                 <a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Add to Compare</span></a>
                                                             </div>
                                                             <div class="product-action-2">
-                                                                <a title="Add to cart" href="#">Add to cart</a>
+                                                                <a title="Add to cart" href="/ColobaneOline/panier">Add to cart</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1290,7 +1288,7 @@
                                                                 <a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Add to Compare</span></a>
                                                             </div>
                                                             <div class="product-action-2">
-                                                                <a title="Add to cart" href="#">Add to cart</a>
+                                                                <a title="Add to cart" href="/ColobaneOline/panier">Add to cart</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1317,7 +1315,7 @@
                                                                 <a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Add to Compare</span></a>
                                                             </div>
                                                             <div class="product-action-2">
-                                                                <a title="Add to cart" href="#">Add to cart</a>
+                                                                <a title="Add to cart" href="/ColobaneOline/panier">Add to cart</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1343,7 +1341,7 @@
                                                                 <!--a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Add to Compare</span></a-->
                                                             </div>
                                                             <div class="product-action-2">
-                                                                <a title="Ajouter au panier" href="#">Ajouter au panier</a>
+                                                                <a title="Ajouter au panier" href="/ColobaneOline/panier">Ajouter au panier</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1370,7 +1368,7 @@
                                                                 <!--a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Add to Compare</span></a-->
                                                             </div>
                                                             <div class="product-action-2">
-                                                                <a title="Add to cart" href="#">Ajouter au panier</a>
+                                                                <a title="Add to cart" href="/ColobaneOline/panier">Ajouter au panier</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1396,7 +1394,7 @@
                                                                 <!--a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Add to Compare</span></a-->
                                                             </div>
                                                             <div class="product-action-2">
-                                                                <a title="Add to cart" href="#">Ajouter au panier</a>
+                                                                <a title="Add to cart" href="/ColobaneOline/panier">Ajouter au panier</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1423,7 +1421,7 @@
                                                                 <!--a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Add to Compare</span></a-->
                                                             </div>
                                                             <div class="product-action-2">
-                                                                <a title="Ajouter au panier" href="#">Ajouter au panier</a>
+                                                                <a title="Ajouter au panier" href="/ColobaneOline/panier">Ajouter au panier</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1509,7 +1507,7 @@
                                             <!--a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Ajouter au Compare</span></a-->
                                         </div>
                                         <div class="product-action-2">
-                                            <a title="Ajouter au cart" href="#">Ajouter au cart</a>
+                                            <a title="Ajouter au cart" href="/ColobaneOline/panier">Ajouter au cart</a>
                                         </div>
                                     </div>
                                 </div>
@@ -1536,7 +1534,7 @@
                                             <!--a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Ajouter au Compare</span></a-->
                                         </div>
                                         <div class="product-action-2">
-                                            <a title="Ajouter au cart" href="#">Ajouter au panier</a>
+                                            <a title="Ajouter au cart" href="/ColobaneOline/panier">Ajouter au panier</a>
                                         </div>
                                     </div>
                                 </div>
@@ -1563,7 +1561,7 @@
                                             <!--a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Ajouter au Compare</span></a-->
                                         </div>
                                         <div class="product-action-2">
-                                            <a title="Ajouter au panier" href="#">Ajouter au panier</a>
+                                            <a title="Ajouter au panier" href="/ColobaneOline/panier">Ajouter au panier</a>
                                         </div>
                                     </div>
                                 </div>
@@ -1589,7 +1587,7 @@
                                             <!--a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Ajouter au Compare</span></a-->
                                         </div>
                                         <div class="product-action-2">
-                                            <a title="Ajouter au panier" href="#">Ajouter au panier</a>
+                                            <a title="Ajouter au panier" href="/ColobaneOline/panier">Ajouter au panier</a>
                                         </div>
                                     </div>
                                 </div>
@@ -1966,7 +1964,7 @@
                                         <!--/ End Input Order -->
                                     </div>
                                     <div class="add-to-cart">
-                                        <a href="#" class="btn">Ajouter au panier</a>
+                                        <a href="/ColobaneOline/panier" class="btn">Ajouter au panier</a>
                                         <a href="#" class="btn min"><i class="ti-heart"></i></a>
                                         <a href="#" class="btn min"><i class="fa fa-compress"></i></a>
                                     </div>

@@ -32,7 +32,7 @@
 										
 
 										<div class="button">
-											<a href="#" class="btn">Achetez maintenant</a>
+											<a href="/ColobaneOline/ProductDetails" class="btn">Achetez maintenant</a>
 										</div>
 									</div>
 								</div>
@@ -190,12 +190,12 @@
                                 <div class="col-lg-6 col-md-6 col-12">
                                     <div class="list-image overlay">
                                         <img src="images/fem/img/pommade1.jpg" alt="#" WIDTH=140 HEIGHT=115>
-                                        <a href="#" class="buy"><i class="fa fa-shopping-bag"></i></a>
+                                        <a href="/ColobaneOline/ProductDetails" class="buy"><i class="fa fa-shopping-bag"></i></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-12 no-padding">
                                     <div class="content">
-                                        <h4 class="title"><a href="#">Pommade</a></h4>
+                                        <h4 class="title"><a href="/ColobaneOline/ProductDetails">Pommade</a></h4>
                                         <p class="price with-discount">2500f</p>
                                     </div>
                                 </div>
@@ -208,12 +208,12 @@
                                 <div class="col-lg-6 col-md-6 col-12">
                                     <div class="list-image overlay">
                                         <img src="images/fem/img/pommade4.jpg" alt="#">
-                                        <a href="#" class="buy"><i class="fa fa-shopping-bag"></i></a>
+                                        <a href="/ColobaneOline/ProductDetails" class="buy"><i class="fa fa-shopping-bag"></i></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-12 no-padding">
                                     <div class="content">
-                                        <h5 class="title"><a href="#">Pommade</a></h5>
+                                        <h5 class="title"><a href="/ColobaneOline/ProductDetails">Pommade</a></h5>
                                         <p class="price with-discount">5000f</p>
                                     </div>
                                 </div>
@@ -226,12 +226,12 @@
                                 <div class="col-lg-6 col-md-6 col-12">
                                     <div class="list-image overlay">
                                         <img src="images/fem/img/parfum_h1.jpg" alt="#">
-                                        <a href="#" class="buy"><i class="fa fa-shopping-bag"></i></a>
+                                        <a href="/ColobaneOline/ProductDetails" class="buy"><i class="fa fa-shopping-bag"></i></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-12 no-padding">
                                     <div class="content">
-                                        <h5 class="title"><a href="#">parfum</a></h5>
+                                        <h5 class="title"><a href="/ColobaneOline/ProductDetails">parfum</a></h5>
                                         <p class="price with-discount">4500f</p>
                                     </div>
                                 </div>
@@ -253,12 +253,12 @@
                                 <div class="col-lg-6 col-md-6 col-12">
                                     <div class="list-image overlay">
                                         <img src="images/fem/img/rasoir.jpg" alt="#">
-                                        <a href="#" class="buy"><i class="fa fa-shopping-bag"></i></a>
+                                        <a href="/ColobaneOline/ProductDetails" class="buy"><i class="fa fa-shopping-bag"></i></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-12 no-padding">
                                     <div class="content">
-                                        <h5 class="title"><a href="#">Rasoir</a></h5>
+                                        <h5 class="title"><a href="/ColobaneOline/ProductDetails">Rasoir</a></h5>
                                         <p class="price with-discount">6000f</p>
                                     </div>
                                 </div>
@@ -271,12 +271,12 @@
                                 <div class="col-lg-6 col-md-6 col-12">
                                     <div class="list-image overlay">
                                         <img src="images/fem/img/17.jpg" alt="#">
-                                        <a href="#" class="buy"><i class="fa fa-shopping-bag"></i></a>
+                                        <a href="/ColobaneOline/ProductDetails" class="buy"><i class="fa fa-shopping-bag"></i></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-12 no-padding">
                                     <div class="content">
-                                        <h5 class="title"><a href="#">Pommade</a></h5>
+                                        <h5 class="title"><a href="/ColobaneOline/ProductDetails">Pommade</a></h5>
                                         <p class="price with-discount">7000f</p>
                                     </div>
                                 </div>
@@ -289,12 +289,12 @@
                                 <div class="col-lg-6 col-md-6 col-12">
                                     <div class="list-image overlay">
                                         <img src="images/fem/img/rasoir2.jpg" alt="#">
-                                        <a href="#" class="buy"><i class="fa fa-shopping-bag"></i></a>
+                                        <a href="/ColobaneOline/ProductDetails" class="buy"><i class="fa fa-shopping-bag"></i></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-12 no-padding">
                                     <div class="content">
-                                        <h5 class="title"><a href="#">Rasoir Electrique</a></h5>
+                                        <h5 class="title"><a href="/ColobaneOline/ProductDetails">Rasoir Electrique</a></h5>
                                         <p class="price with-discount">16000f</p>
                                     </div>
                                 </div>
@@ -316,12 +316,12 @@
                                 <div class="col-lg-6 col-md-6 col-12">
                                     <div class="list-image overlay">
                                         <img src="images/fem/img/pommade3.jpg" alt="#">
-                                        <a href="#" class="buy"><i class="fa fa-shopping-bag"></i></a>
+                                        <a href="/ColobaneOline/ProductDetails" class="buy"><i class="fa fa-shopping-bag"></i></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-12 no-padding">
                                     <div class="content">
-                                        <h5 class="title"><a href="#">Pommade</a></h5>
+                                        <h5 class="title"><a href="/ColobaneOline/ProductDetails">Pommade</a></h5>
                                         <p class="price with-discount">5500f</p>
                                     </div>
                                 </div>
@@ -334,12 +334,12 @@
                                 <div class="col-lg-6 col-md-6 col-12">
                                     <div class="list-image overlay">
                                         <img src="images/fem/img/2.jpg" alt="#">
-                                        <a href="#" class="buy"><i class="fa fa-shopping-bag"></i></a>
+                                        <a href="/ColobaneOline/ProductDetails" class="buy"><i class="fa fa-shopping-bag"></i></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-12 no-padding">
                                     <div class="content">
-                                        <h5 class="title"><a href="#">Description </a></h5>
+                                        <h5 class="title"><a href="/ColobaneOline/ProductDetails">Description </a></h5>
                                         <p class="price with-discount">4000f</p>
                                     </div>
                                 </div>
@@ -352,12 +352,12 @@
                                 <div class="col-lg-6 col-md-6 col-12">
                                     <div class="list-image overlay">
                                         <img src="images/fem/img/pommade.jpg" alt="#">
-                                        <a href="#" class="buy"><i class="fa fa-shopping-bag"></i></a>
+                                        <a href="/ColobaneOline/ProductDetails" class="buy"><i class="fa fa-shopping-bag"></i></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-12 no-padding">
                                     <div class="content">
-                                        <h5 class="title"><a href="#">Pommade</a></h5>
+                                        <h5 class="title"><a href="/ColobaneOline/ProductDetails">Pommade</a></h5>
                                         <p class="price with-discount">18000f</p>
                                     </div>
                                 </div>
@@ -513,12 +513,12 @@
                                 <div class="col-lg-6 col-md-6 col-12">
                                     <div class="list-image overlay">
                                         <img src="images/fem/img/21.png" alt="#" WIDTH=140 HEIGHT=115>
-                                        <a href="#" class="buy"><i class="fa fa-shopping-bag"></i></a>
+                                        <a href="/ColobaneOline/ProductDetails" class="buy"><i class="fa fa-shopping-bag"></i></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-12 no-padding">
                                     <div class="content">
-                                        <h4 class="title"><a href="#">Coffret</a></h4>
+                                        <h4 class="title"><a href="/ColobaneOline/ProductDetails">Coffret</a></h4>
                                         <p class="price with-discount">19000f</p>
                                     </div>
                                 </div>
@@ -531,12 +531,12 @@
                                 <div class="col-lg-6 col-md-6 col-12">
                                     <div class="list-image overlay">
                                         <img src="images/fem/img/27.jpg" alt="#">
-                                        <a href="#" class="buy"><i class="fa fa-shopping-bag"></i></a>
+                                        <a href="/ColobaneOline/ProductDetails" class="buy"><i class="fa fa-shopping-bag"></i></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-12 no-padding">
                                     <div class="content">
-                                        <h5 class="title"><a href="#">Poudre Marron</a></h5>
+                                        <h5 class="title"><a href="/ColobaneOline/ProductDetails">Poudre Marron</a></h5>
                                         <p class="price with-discount">3000f</p>
                                     </div>
                                 </div>
@@ -549,12 +549,12 @@
                                 <div class="col-lg-6 col-md-6 col-12">
                                     <div class="list-image overlay">
                                         <img src="images/fem/img/30.jpg" alt="#">
-                                        <a href="#" class="buy"><i class="fa fa-shopping-bag"></i></a>
+                                        <a href="/ColobaneOline/ProductDetails" class="buy"><i class="fa fa-shopping-bag"></i></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-12 no-padding">
                                     <div class="content">
-                                        <h5 class="title"><a href="#">Panier coffret</a></h5>
+                                        <h5 class="title"><a href="/ColobaneOline/ProductDetails">Panier coffret</a></h5>
                                         <p class="price with-discount">13500f</p>
                                     </div>
                                 </div>
@@ -576,12 +576,12 @@
                                 <div class="col-lg-6 col-md-6 col-12">
                                     <div class="list-image overlay">
                                         <img src="images/fem/img/2.png" alt="#">
-                                        <a href="#" class="buy"><i class="fa fa-shopping-bag"></i></a>
+                                        <a href="/ColobaneOline/ProductDetails" class="buy"><i class="fa fa-shopping-bag"></i></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-12 no-padding">
                                     <div class="content">
-                                        <h5 class="title"><a href="#">Pause cils</a></h5>
+                                        <h5 class="title"><a href="/ColobaneOline/ProductDetails">Pause cils</a></h5>
                                         <p class="price with-discount">2000f</p>
                                     </div>
                                 </div>
@@ -594,12 +594,12 @@
                                 <div class="col-lg-6 col-md-6 col-12">
                                     <div class="list-image overlay">
                                         <img src="images/fem/img/38.jpg" alt="#">
-                                        <a href="#" class="buy"><i class="fa fa-shopping-bag"></i></a>
+                                        <a href="/ColobaneOline/ProductDetails" class="buy"><i class="fa fa-shopping-bag"></i></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-12 no-padding">
                                     <div class="content">
-                                        <h5 class="title"><a href="#">Coffret</a></h5>
+                                        <h5 class="title"><a href="/ColobaneOline/ProductDetails">Coffret</a></h5>
                                         <p class="price with-discount">30000f</p>
                                     </div>
                                 </div>
@@ -612,12 +612,12 @@
                                 <div class="col-lg-6 col-md-6 col-12">
                                     <div class="list-image overlay">
                                         <img src="images/fem/img/parfum_f3.jpg" alt="#">
-                                        <a href="#" class="buy"><i class="fa fa-shopping-bag"></i></a>
+                                        <a href="/ColobaneOline/ProductDetails" class="buy"><i class="fa fa-shopping-bag"></i></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-12 no-padding">
                                     <div class="content">
-                                        <h5 class="title"><a href="#">Parfum larose</a></h5>
+                                        <h5 class="title"><a href="/ColobaneOline/ProductDetails">Parfum larose</a></h5>
                                         <p class="price with-discount">6000f</p>
                                     </div>
                                 </div>
@@ -639,12 +639,12 @@
                                 <div class="col-lg-6 col-md-6 col-12">
                                     <div class="list-image overlay">
                                         <img src="images/fem/img/37.jpg" alt="#">
-                                        <a href="#" class="buy"><i class="fa fa-shopping-bag"></i></a>
+                                        <a href="/ColobaneOline/ProductDetails" class="buy"><i class="fa fa-shopping-bag"></i></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-12 no-padding">
                                     <div class="content">
-                                        <h5 class="title"><a href="#">Farrage</a></h5>
+                                        <h5 class="title"><a href="/ColobaneOline/ProductDetails">Farrage</a></h5>
                                         <p class="price with-discount">12500f</p>
                                     </div>
                                 </div>
@@ -657,12 +657,12 @@
                                 <div class="col-lg-6 col-md-6 col-12">
                                     <div class="list-image overlay">
                                         <img src="images/fem/img/parfum_f1.jpg" alt="#">
-                                        <a href="#" class="buy"><i class="fa fa-shopping-bag"></i></a>
+                                        <a href="/ColobaneOline/ProductDetails" class="buy"><i class="fa fa-shopping-bag"></i></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-12 no-padding">
                                     <div class="content">
-                                        <h5 class="title"><a href="#">Parfum class </a></h5>
+                                        <h5 class="title"><a href="/ColobaneOline/ProductDetails">Parfum class </a></h5>
                                         <p class="price with-discount">2500f</p>
                                     </div>
                                 </div>
@@ -680,7 +680,7 @@
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-12 no-padding">
                                     <div class="content">
-                                        <h5 class="title"><a href="#">Poudre Blanche</a></h5>
+                                        <h5 class="title"><a href="/ColobaneOline/ProductDetails">Poudre Blanche</a></h5>
                                         <p class="price with-discount">4000f</p>
                                     </div>
                                 </div>

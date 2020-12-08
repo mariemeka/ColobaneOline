@@ -351,7 +351,7 @@
 								<div class="content">
 									<ul>
 										<li>Sous-total<span>$330.00</span></li>
-										<li>(+) Shipping<span>$10.00</span></li>
+										<li>(+) livraison<span>$10.00</span></li>
 										<li class="last">Total<span>$340.00</span></li>
 									</ul>
 								</div>

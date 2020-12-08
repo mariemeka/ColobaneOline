@@ -22,15 +22,6 @@
                                         <div class="single-slider">
                                             <img src="images/icon.jpg" alt="#">
                                         </div>
-                                        <div class="single-slider">
-                                            <img src="https://via.placeholder.com/569x528" alt="#">
-                                        </div>
-                                        <div class="single-slider">
-                                            <img src="https://via.placeholder.com/569x528" alt="#">
-                                        </div>
-                                        <div class="single-slider">
-                                            <img src="https://via.placeholder.com/569x528" alt="#">
-                                        </div>
                                     </div>
                                 </div>
                                 <!-- End Product slider -->
@@ -97,7 +88,7 @@
                                         <!--/ End Input Order -->
                                     </div>
                                     <div class="add-to-cart">
-                                        <a href="#" class="btn">Ajouter au panier</a>
+                                        <a href="/ColobaneOline/panier" class="btn">Ajouter au panier</a>
                                         <a href="#" class="btn min"><i class="ti-heart"></i></a>
                                         <a href="#" class="btn min"><i class="fa fa-compress"></i></a>
                                     </div>
