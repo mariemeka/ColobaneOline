@@ -205,7 +205,7 @@
                                                                                         <ul class="nav main-menu menu navbar-nav">
                                                                                             <li class="active"><a href="/ColobaneOline/Acceuil">Acceuil</a></li>
                                                                                             <li><a href="#">Produit</a></li>												
-                                                                                            <li><a href="#">Service</a></li>
+                                                                                            <li><a href="/ColobaneOline/Apropos">Service</a></li>
                                                                                             <li><a href="/ColobaneOline/boutique">Boutique<i class="ti-angle-down"></i><span class="new">New</span></a>
                                                                                             <li><a href="/ColobaneOline/contact">Contact</a></li>									
                                                                                             <li><a href="/ColobaneOline/Apropos">A Propos</a></li>

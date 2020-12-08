@@ -21,8 +21,8 @@
 					<div class="col-12">
 						<div class="bread-inner">
 							<ul class="bread-list">
-								<li><a href="index1.html">Home<i class="ti-arrow-right"></i></a></li>
-								<li class="active"><a href="blog-single.html">Shop Grid</a></li>
+								<li><a href="/ColobaneOline/Acceuil">Home<i class="ti-arrow-right"></i></a></li>
+								<li class="active"><a href="#">Magasin</a></li>
 							</ul>
 						</div>
 					</div>
@@ -41,19 +41,19 @@
 								<div class="single-widget category">
 									<h3 class="title">Categories</h3>
 									<ul class="categor-list">
-										<li><a href="#">T-shirts</a></li>
-										<li><a href="#">jacket</a></li>
-										<li><a href="#">jeans</a></li>
-										<li><a href="#">sweatshirts</a></li>
-										<li><a href="#">trousers</a></li>
-										<li><a href="#">kitwears</a></li>
-										<li><a href="#">accessories</a></li>
+										<li><a href="/ColobaneOline/vetement">T-shirts</a></li>
+										<li><a href="/ColobaneOline/vetement#hom">Veste</a></li>
+										<li><a href="/ColobaneOline/vetement">jeans</a></li>
+										<li><a href="/ColobaneOline/vetement">Sweat-shirts</a></li>
+										<li><a href="/ColobaneOline/vetement">Pantalon</a></li>
+										<li><a href="/ColobaneOline/vetement">Vetements</a></li>
+										<li><a href="/ColobaneOline/Autres">accessoires</a></li>
 									</ul>
 								</div>
 								<!--/ End Single Widget -->
 								<!-- Shop By Price -->
 									<div class="single-widget range">
-										<h3 class="title">Shop by Price</h3>
+										<h3 class="title">Magasiner par prix</h3>
 										<div class="price-filter">
 											<div class="price-filter-inner">
 												<div id="slider-range"></div>
@@ -66,28 +66,28 @@
 										</div>
 										<ul class="check-box-list">
 											<li>
-												<label class="checkbox-inline" for="1"><input name="news" id="1" type="checkbox">$20 - $50<span class="count">(3)</span></label>
+												<label class="checkbox-inline" for="1"><input name="news" id="1" type="checkbox">1500f - 3000f<span class="count">(3)</span></label>
 											</li>
 											<li>
-												<label class="checkbox-inline" for="2"><input name="news" id="2" type="checkbox">$50 - $100<span class="count">(5)</span></label>
+												<label class="checkbox-inline" for="2"><input name="news" id="2" type="checkbox">3500f - 5000f<span class="count">(5)</span></label>
 											</li>
 											<li>
-												<label class="checkbox-inline" for="3"><input name="news" id="3" type="checkbox">$100 - $250<span class="count">(8)</span></label>
+												<label class="checkbox-inline" for="3"><input name="news" id="3" type="checkbox">6000 - 25000f<span class="count">(8)</span></label>
 											</li>
 										</ul>
 									</div>
 									<!--/ End Shop By Price -->
 								<!-- Single Widget -->
 								<div class="single-widget recent-post">
-									<h3 class="title">Recent post</h3>
+									<h3 class="title"></h3>
 									<!-- Single Post -->
 									<div class="single-post first">
 										<div class="image">
-											<img src="https://via.placeholder.com/75x75" alt="#">
+											<img src="images/vet.jpg" alt="#">
 										</div>
 										<div class="content">
-											<h5><a href="#">Girls Dress</a></h5>
-											<p class="price">$99.50</p>
+											<h5><a href="#">Vetements fille</a></h5>
+											<p class="price">35000f</p>
 											<ul class="reviews">
 												<li class="yellow"><i class="ti-star"></i></li>
 												<li class="yellow"><i class="ti-star"></i></li>
@@ -101,11 +101,11 @@
 									<!-- Single Post -->
 									<div class="single-post first">
 										<div class="image">
-											<img src="https://via.placeholder.com/75x75" alt="#">
+											<img src="images/vet3.jpg" alt="#">
 										</div>
 										<div class="content">
-											<h5><a href="#">Women Clothings</a></h5>
-											<p class="price">$99.50</p>
+											<h5><a href="#">Vetement Femme</a></h5>
+											<p class="price">15000f</p>
 											<ul class="reviews">
 												<li class="yellow"><i class="ti-star"></i></li>
 												<li class="yellow"><i class="ti-star"></i></li>
@@ -119,11 +119,11 @@
 									<!-- Single Post -->
 									<div class="single-post first">
 										<div class="image">
-											<img src="https://via.placeholder.com/75x75" alt="#">
+											<img src="images/hom.jpg" alt="#">
 										</div>
 										<div class="content">
-											<h5><a href="#">Man Tshirt</a></h5>
-											<p class="price">$99.50</p>
+											<h5><a href="#">Tshirt homme</a></h5>
+											<p class="price">2000f</p>
 											<ul class="reviews">
 												<li class="yellow"><i class="ti-star"></i></li>
 												<li class="yellow"><i class="ti-star"></i></li>
@@ -138,13 +138,13 @@
 								<!--/ End Single Widget -->
 								<!-- Single Widget -->
 								<div class="single-widget category">
-									<h3 class="title">Manufacturers</h3>
+									<h3 class="title">Fabricants(es)</h3>
 									<ul class="categor-list">
 										<li><a href="#">Forever</a></li>
-										<li><a href="#">giordano</a></li>
-										<li><a href="#">abercrombie</a></li>
-										<li><a href="#">ecko united</a></li>
-										<li><a href="#">zara</a></li>
+										<li><a href="#">TDSI</a></li>
+										<li><a href="#">ADIDAS</a></li>
+										<li><a href="#">NIKE</a></li>
+										<li><a href="#">JORDAN</a></li>
 									</ul>
 								</div>
 								<!--/ End Single Widget -->
@@ -166,17 +166,17 @@
 											</select>
 										</div>
 										<div class="single-shorter">
-											<label>Sort By :</label>
+											<label>Trier par :</label>
 											<select>
-												<option selected="selected">Name</option>
-												<option>Price</option>
-												<option>Size</option>
+												<option selected="selected">Nom</option>
+												<option>Prix</option>
+												<option>taille</option>
 											</select>
 										</div>
 									</div>
 									<ul class="view-mode">
-										<li class="active"><a href="shop-grid.html"><i class="fa fa-th-large"></i></a></li>
-										<li><a href="shop-list.html"><i class="fa fa-th-list"></i></a></li>
+										<li class="active"><a href="#"><i class="fa fa-th-large"></i></a></li>
+										<li><a href="#"><i class="fa fa-th-list"></i></a></li>
 									</ul>
 								</div>
 								<!--/ End Shop Top -->
@@ -186,9 +186,9 @@
 							<div class="col-lg-4 col-md-6 col-12">
 								<div class="single-product">
 									<div class="product-img">
-										<a href="product-details.html">
-											<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-											<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+										<a href="/ColobaneOline/ProductDetails">
+											<img class="default-img" src="images/hom/14.jpg" alt="#">
+											<img class="hover-img" src="images/hom/15.jpg" alt="#">
 										</a>
 										<div class="button-head">
 											<div class="product-action">
@@ -197,14 +197,14 @@
 												<a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Add to Compare</span></a>
 											</div>
 											<div class="product-action-2">
-												<a title="Add to cart" href="#">Add to cart</a>
+												<a title="Add to cart" href="/ColobaneOline/panier">Ajouter au panier</a>
 											</div>
 										</div>
 									</div>
 									<div class="product-content">
-										<h3><a href="product-details.html">Women Hot Collection</a></h3>
+										<h3><a href="/ColobaneOline/ProductDetails">Veste pour Homme</a></h3>
 										<div class="product-price">
-											<span>$29.00</span>
+											<span>5000f</span>
 										</div>
 									</div>
 								</div>
@@ -212,9 +212,9 @@
 							<div class="col-lg-4 col-md-6 col-12">
 								<div class="single-product">
 									<div class="product-img">
-										<a href="product-details.html">
-											<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-											<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+										<a href="/ColobaneOline/ProductDetails">
+											<img class="default-img" src="images/hom/21.jpeg" alt="#">
+											<img class="hover-img" src="images/hom/20.jpg" alt="#">
 										</a>
 										<div class="button-head">
 											<div class="product-action">
@@ -223,14 +223,14 @@
 												<a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Add to Compare</span></a>
 											</div>
 											<div class="product-action-2">
-												<a title="Add to cart" href="#">Add to cart</a>
+												<a title="Add to cart" href="/ColobaneOline/panier">Ajouter au panier</a>
 											</div>
 										</div>
 									</div>
 									<div class="product-content">
-										<h3><a href="product-details.html">Awesome Pink Show</a></h3>
+										<h3><a href="/ColobaneOline/ProductDetails">Lacoste</a></h3>
 										<div class="product-price">
-											<span>$29.00</span>
+											<span>8000f</span>
 										</div>
 									</div>
 								</div>
@@ -238,9 +238,9 @@
 							<div class="col-lg-4 col-md-6 col-12">
 								<div class="single-product">
 									<div class="product-img">
-										<a href="product-details.html">
-											<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-											<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+										<a href="/ColobaneOline/ProductDetails">
+											<img class="default-img" src="images/hom/18.jpeg" alt="#">
+											<img class="hover-img" src="images/hom/18.jpeg" alt="#">
 										</a>
 										<div class="button-head">
 											<div class="product-action">
@@ -249,14 +249,14 @@
 												<a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Add to Compare</span></a>
 											</div>
 											<div class="product-action-2">
-												<a title="Add to cart" href="#">Add to cart</a>
+												<a title="Add to cart" href="#">Ajouter au panier</a>
 											</div>
 										</div>
 									</div>
 									<div class="product-content">
-										<h3><a href="product-details.html">Awesome Bags Collection</a></h3>
+										<h3><a href="/ColobaneOline/ProductDetails">Chaussure de classe</a></h3>
 										<div class="product-price">
-											<span>$29.00</span>
+											<span>23000f</span>
 										</div>
 									</div>
 								</div>
@@ -264,9 +264,9 @@
 							<div class="col-lg-4 col-md-6 col-12">
 								<div class="single-product">
 									<div class="product-img">
-										<a href="product-details.html">
-											<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-											<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+										<a href="/ColobaneOline/ProductDetails">
+											<img class="default-img" src="images/fem/19.jpg" alt="#">
+											<img class="hover-img" src="images/fem/19.jpg" alt="#">
 											<span class="new">New</span>
 										</a>
 										<div class="button-head">
@@ -276,14 +276,14 @@
 												<a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Add to Compare</span></a>
 											</div>
 											<div class="product-action-2">
-												<a title="Add to cart" href="#">Add to cart</a>
+												<a title="Add to cart" href="/ColobaneOline/ProductDetails">Ajouter au panier</a>
 											</div>
 										</div>
 									</div>
 									<div class="product-content">
-										<h3><a href="product-details.html">Women Pant Collectons</a></h3>
+										<h3><a href="/ColobaneOline/ProductDetails">Chaussure basket</a></h3>
 										<div class="product-price">
-											<span>$29.00</span>
+											<span>24000f</span>
 										</div>
 									</div>
 								</div>
@@ -291,9 +291,9 @@
 							<div class="col-lg-4 col-md-6 col-12">
 								<div class="single-product">
 									<div class="product-img">
-										<a href="product-details.html">
-											<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-											<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+										<a href="/ColobaneOline/ProductDetails">
+											<img class="default-img" src="images/fem/16.jpg" alt="#">
+											<img class="hover-img" src="images/fem/17.jpg" alt="#">
 										</a>
 										<div class="button-head">
 											<div class="product-action">
@@ -302,14 +302,14 @@
 												<a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Add to Compare</span></a>
 											</div>
 											<div class="product-action-2">
-												<a title="Add to cart" href="#">Add to cart</a>
+												<a title="Add to cart" href="/ColobaneOline/panier">Ajouter au panier</a>
 											</div>
 										</div>
 									</div>
 									<div class="product-content">
-										<h3><a href="product-details.html">Awesome Bags Collection</a></h3>
+										<h3><a href="/ColobaneOline/ProductDetails">Body fille</a></h3>
 										<div class="product-price">
-											<span>$29.00</span>
+											<span>3000f</span>
 										</div>
 									</div>
 								</div>
@@ -317,10 +317,10 @@
 							<div class="col-lg-4 col-md-6 col-12">
 								<div class="single-product">
 									<div class="product-img">
-										<a href="product-details.html">
-											<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-											<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
-											<span class="price-dec">30% Off</span>
+										<a href="/ColobaneOline/ProductDetails">
+											<img class="default-img" src="images/fem/35.jpg" alt="#">
+											<img class="hover-img" src="images/fem/35.jpg" alt="#">
+											<span class="price-dec">30% de reduction</span>
 										</a>
 										<div class="button-head">
 											<div class="product-action">
@@ -329,14 +329,14 @@
 												<a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Add to Compare</span></a>
 											</div>
 											<div class="product-action-2">
-												<a title="Add to cart" href="#">Add to cart</a>
+												<a title="Add to cart" href="/ColobaneOline/panier">Ajouter au panier</a>
 											</div>
 										</div>
 									</div>
 									<div class="product-content">
-										<h3><a href="product-details.html">Awesome Cap For Women</a></h3>
+										<h3><a href="/ColobaneOline/ProductDetails">Sac de classe</a></h3>
 										<div class="product-price">
-											<span>$29.00</span>
+											<span>6000f</span>
 										</div>
 									</div>
 								</div>
@@ -344,9 +344,9 @@
 							<div class="col-lg-4 col-md-6 col-12">
 								<div class="single-product">
 									<div class="product-img">
-										<a href="product-details.html">
-											<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-											<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+										<a href="/ColobaneOline/ProductDetails">
+											<img class="default-img" src="images/autres/decoration/112.jpg" alt="#">
+											<img class="hover-img" src="images/autres/decoration/311.jpg" alt="#">
 										</a>
 										<div class="button-head">
 											<div class="product-action">
@@ -355,14 +355,14 @@
 												<a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Add to Compare</span></a>
 											</div>
 											<div class="product-action-2">
-												<a title="Add to cart" href="#">Add to cart</a>
+												<a title="Add to cart" href="#">Ajouter au panier</a>
 											</div>
 										</div>
 									</div>
 									<div class="product-content">
-										<h3><a href="product-details.html">Polo Dress For Women</a></h3>
+										<h3><a href="/ColobaneOline/ProductDetails">Decoration Maison</a></h3>
 										<div class="product-price">
-											<span>$29.00</span>
+											<span>6000f</span>
 										</div>
 									</div>
 								</div>
@@ -370,10 +370,10 @@
 							<div class="col-lg-4 col-md-6 col-12">
 								<div class="single-product">
 									<div class="product-img">
-										<a href="product-details.html">
-											<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-											<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
-											<span class="out-of-stock">Hot</span>
+										<a href="/ColobaneOline/ProductDetails">
+											<img class="default-img" src="images/conservation/f1.jpg" alt="#">
+											<img class="hover-img" src="images/conservation/f1.jpg" alt="#">
+											<span class="out-of-stock">Nouveauté</span>
 										</a>
 										<div class="button-head">
 											<div class="product-action">
@@ -382,15 +382,15 @@
 												<a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Add to Compare</span></a>
 											</div>
 											<div class="product-action-2">
-												<a title="Add to cart" href="#">Add to cart</a>
+												<a title="Add to cart" href="/ColobaneOline/panier">Ajouter au panier</a>
 											</div>
 										</div>
 									</div>
 									<div class="product-content">
-										<h3><a href="product-details.html">Black Sunglass For Women</a></h3>
+										<h3><a href="/ColobaneOline/ProductDetails">Mixeur</a></h3>
 										<div class="product-price">
-											<span class="old">$60.00</span>
-											<span>$50.00</span>
+											<span class="old">8000f</span>
+											<span>5500f</span>
 										</div>
 									</div>
 								</div>
@@ -398,9 +398,9 @@
 							<div class="col-lg-4 col-md-6 col-12">
 								<div class="single-product">
 									<div class="product-img">
-										<a href="product-details.html">
-											<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-											<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+										<a href="/ColobaneOline/ProductDetails">
+											<img class="default-img" src="images/nettoyage/f.jpg" alt="#">
+											<img class="hover-img" src="images/nettoyage/f.jpg" alt="#">
 											<span class="new">New</span>
 										</a>
 										<div class="button-head">
@@ -410,14 +410,14 @@
 												<a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Add to Compare</span></a>
 											</div>
 											<div class="product-action-2">
-												<a title="Add to cart" href="#">Add to cart</a>
+												<a title="Add to cart" href="/ColobaneOline/panier">Ajouter au panier</a>
 											</div>
 										</div>
 									</div>
 									<div class="product-content">
-										<h3><a href="product-details.html">Women Pant Collectons</a></h3>
+										<h3><a href="/ColobaneOline/ProductDetails">Ferre a repasser</a></h3>
 										<div class="product-price">
-											<span>$29.00</span>
+											<span>4000f</span>
 										</div>
 									</div>
 								</div>

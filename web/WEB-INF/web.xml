@@ -52,6 +52,14 @@
         <servlet-name>identification</servlet-name>
         <servlet-class>com.acheteur.servlet.identification</servlet-class>
     </servlet>
+    <servlet>
+        <servlet-name>PageInscriptionVendeur</servlet-name>
+        <servlet-class>com.vendeur.servlet.PageInscriptionVendeur</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>InsertionProduits</servlet-name>
+        <servlet-class>com.vendeur.servlet.InsertionProduits</servlet-class>
+    </servlet>
     <servlet-mapping>
         <servlet-name>Acceuil</servlet-name>
         <url-pattern>/Acceuil</url-pattern>
@@ -106,6 +114,14 @@
     <servlet-mapping>
         <servlet-name>identification</servlet-name>
         <url-pattern>/identification</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>PageInscriptionVendeur</servlet-name>
+        <url-pattern>/PageInscriptionVendeur</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>InsertionProduits</servlet-name>
+        <url-pattern>/InsertionProduits</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>

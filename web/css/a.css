@@ -40,11 +40,56 @@
         color: white;
      }
 /* Set a style for all buttons */
+#Form2 input[type=submit] {
 
+    background: rgba(0,0,0,0.9);
+    color: white; 
+    font-size: 20px;
+    margin: 0; 
+    font-family: 'frozen', serif;
+    font-weight: 700;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer; 
+    width: 100%;
+  
+}
+
+#Form2  input[type=submit]:hover {
+      transition: 0.7s;
+        background-color: orange;
+        color: white;
+     }
 
 #connexionForm{
         width:100%;
         padding: 30px;
         background: white;
         box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
+#submit1:hover {
+   
+        transition: 0.7s;
+        background-color: orange;
+        color: white;
+    
+    
+}
+
+#submit1 input[type=submit] {
+ 
+    background: rgba(0,0,0,0.9);
+    color: white; 
+    font-size: 20px;
+    margin: 0; 
+    font-family: 'frozen', serif;
+    font-weight: 700;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer; 
+    width: 100%;
+    
 }

@@ -150,10 +150,10 @@
                                     <a href="#" class="single-icon"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
                                 </div>
                                 <div class="sinlge-bar">
-                                    <a href="/ColobaneOline/panier" class="single-icon"><i class="fa fa-user-circle-o" aria-hidden="true"></i></a>
+                                    <a href="/ColobaneOline/compte" class="single-icon"><i class="fa fa-user-circle-o" aria-hidden="true"></i></a>
                                 </div>
                                 <div class="sinlge-bar shopping">
-                                    <a href="#" class="single-icon"><i class="ti-bag"></i> <span class="total-count">2</span></a>
+                                    <a href="/ColobaneOline/panier" class="single-icon"><i class="ti-bag"></i> <span class="total-count">2</span></a>
                                     <!-- Shopping Item -->
                                     <div class="shopping-item">
                                         <div class="dropdown-cart-header">
@@ -246,17 +246,17 @@
                                         </li>
                                         <li><a href="/ColobaneOline/electronique"> Electroniques <i class="fa fa-angle-right" aria-hidden="true"></i></a>
                                             <ul class="sub-category">
-                                                <li><a href="#">Telephones & Tablettes</a></li>
-                                                <li><a href="#">Ordinateurs</a></li>
-                                                <li><a href="#">Télévisions</a></li>
+                                                <li><a href="/ColobaneOline/electronique#phone">Telephones & Tablettes</a></li>
+                                                <li><a href="/ColobaneOline/electronique#ordi">Ordinateurs</a></li>
+                                                <li><a href="/ColobaneOline/electronique#télé">Télévisions</a></li>
 
                                             </ul>
                                         </li>
                                         <li><a href="/ColobaneOline/electromenager"> Electromenager <i class="fa fa-angle-right" aria-hidden="true"></i></a>
                                             <ul class="sub-category">
-                                                <li><a href="#">Matériel de nettoyage</a></li>
-                                                <li><a href="#">Matériel de conservation</a></li>
-                                                <li><a href="#">Matériel pour le froid</a></li>
+                                                <li><a href="/ColobaneOline/vetement#net">Matériel de nettoyage</a></li>
+                                                <li><a href="/ColobaneOline/vetement#con">Matériel de conservation</a></li>
+                                                <li><a href="/ColobaneOline/vetement#froid">Matériel pour le froid</a></li>
 
                                             </ul>
                                         </li>
@@ -270,10 +270,9 @@
                                             </ul>
                                         </li>
                                         <li><a href="/ColobaneOline/Autres">Nouvelles Arrivées <i class="fa fa-angle-right" aria-hidden="true"></i></a>
-                                            <ul class="sub-category">
+                                             <ul class="sub-category">
                                                 <li><a href="#">accessories</a></li>
                                                 <li><a href="#">Vetements</a></li>
-                                                <li><a href="#">top 100 offerts</a></li>
                                                 <li><a href="#">Décoration Maison</a></li>
                                                 <li><a href="#">sports</a></li>
                                                 <li><a href="#">Bureau</a> </li>
@@ -294,7 +293,7 @@
                                                 <ul class="nav main-menu menu navbar-nav">
                                                     <li class="active"><a href="/ColobaneOline/Acceuil">Acceuil</a></li>
                                                     <li><a href="#">Produit</a></li>												
-                                                    <li><a href="#">Service</a></li>
+                                                    <li><a href="/ColobaneOline/Apropos">Service</a></li>
                                                     <li><a href="/ColobaneOline/boutique">Boutique<i class="ti-angle-down"></i><span class="new">New</span></a>
                                                     <li><a href="/ColobaneOline/contact">Contact</a></li>									
                                                     <li><a href="/ColobaneOline/Apropos">A Propos</a></li>

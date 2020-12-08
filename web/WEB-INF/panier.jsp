@@ -41,10 +41,10 @@
 					<table class="table shopping-summery">
 						<thead>
 							<tr class="main-hading">
-								<th>PRODUCT</th>
-								<th>NAME</th>
-								<th class="text-center">UNIT PRICE</th>
-								<th class="text-center">QUANTITY</th>
+								<th>PRODUiT</th>
+								<th>NOM</th>
+								<th class="text-center">Prix Unitaire</th>
+								<th class="text-center">QUANTITES</th>
 								<th class="text-center">TOTAL</th> 
 								<th class="text-center"><i class="ti-trash remove-icon"></i></th>
 							</tr>
@@ -54,7 +54,7 @@
 								<td class="image" data-title="No"><img src="https://via.placeholder.com/100x100" alt="#"></td>
 								<td class="product-des" data-title="Description">
 									<p class="product-name"><a href="#">Women Dress</a></p>
-									<p class="product-des">Maboriosam in a tonto nesciung eget  distingy magndapibus.</p>
+									<p class="product-des">Description</p>
 								</td>
 								<td class="price" data-title="Price"><span>$110.00 </span></td>
 								<td class="qty" data-title="Qty"><!-- Input Order -->
@@ -80,7 +80,7 @@
 								<td class="image" data-title="No"><img src="https://via.placeholder.com/100x100" alt="#"></td>
 								<td class="product-des" data-title="Description">
 									<p class="product-name"><a href="#">Women Dress</a></p>
-									<p class="product-des">Maboriosam in a tonto nesciung eget  distingy magndapibus.</p>
+									<p class="product-des">Description </p>
 								</td>
 								<td class="price" data-title="Price"><span>$110.00 </span></td>
 								<td class="qty" data-title="Qty"><!-- Input Order -->
@@ -106,7 +106,7 @@
 								<td class="image" data-title="No"><img src="https://via.placeholder.com/100x100" alt="#"></td>
 								<td class="product-des" data-title="Description">
 									<p class="product-name"><a href="#">Women Dress</a></p>
-									<p class="product-des">Maboriosam in a tonto nesciung eget  distingy magndapibus.</p>
+									<p class="product-des">xxxxxxxxxxxxxxxxxxx.</p>
 								</td>
 								<td class="price" data-title="Price"><span>$110.00 </span></td>
 								<td class="qty" data-title="Qty"><!-- Input Order -->
@@ -125,8 +125,8 @@
 									</div>
 									<!--/ End Input Order -->
 								</td>
-								<td class="total-amount" data-title="Total"><span>$220.88</span></td>
-								<td class="action" data-title="Remove"><a href="#"><i class="ti-trash remove-icon"></i></a></td>
+								<td class="total-amount" data-title="Total"><span>5000f</span></td>
+								<td class="action" data-title="remove"><a href="#"><i class="ti-trash remove-icon"></i></a></td>
 							</tr>
 						</tbody>
 					</table>
@@ -143,25 +143,25 @@
 									<div class="coupon">
 										<form action="#" target="_blank">
 											<input name="Coupon" placeholder="Enter Your Coupon">
-											<button class="btn">Apply</button>
+											<button class="btn">Appliquer</button>
 										</form>
 									</div>
 									<div class="checkbox">
-										<label class="checkbox-inline" for="2"><input name="news" id="2" type="checkbox"> Shipping (+10$)</label>
+										<label class="checkbox-inline" for="2"><input name="news" id="2" type="checkbox"> Livraison (+2000f)</label>
 									</div>
 								</div>
 							</div>
 							<div class="col-lg-4 col-md-7 col-12">
 								<div class="right">
 									<ul>
-										<li>Cart Subtotal<span>$330.00</span></li>
-										<li>Shipping<span>Free</span></li>
-										<li>You Save<span>$20.00</span></li>
-										<li class="last">You Pay<span>$310.00</span></li>
+										<li>Sous-total du panier<span>$330.00</span></li>
+										<li>Livraison<span>Gratuite</span></li>
+										<li>Vous enregistrer<span>20000f</span></li>
+										<li class="last">Vous payez<span>31000f</span></li>
 									</ul>
 									<div class="button5">
-										<a href="#" class="btn">Checkout</a>
-										<a href="#" class="btn">Continue shopping</a>
+										<a href="/ColobaneOline/compte" class="btn">Caisse</a>
+										<a href="/ColobaneOline/boutique" class="btn">Continuer la boutique</a>
 									</div>
 								</div>
 							</div>
@@ -182,8 +182,8 @@
 					<!-- Start Single Service -->
 					<div class="single-service">
 						<i class="ti-rocket"></i>
-						<h4>Free shiping</h4>
-						<p>Orders over $100</p>
+						<h4>Livraison gratuite</h4>
+						<p>Commandes de plus de 100000f</p>
 					</div>
 					<!-- End Single Service -->
 				</div>
@@ -191,8 +191,8 @@
 					<!-- Start Single Service -->
 					<div class="single-service">
 						<i class="ti-reload"></i>
-						<h4>Free Return</h4>
-						<p>Within 30 days returns</p>
+						<h4>Retour gratuit</h4>
+						<p>Retour dans les 30 jours</p>
 					</div>
 					<!-- End Single Service -->
 				</div>
@@ -200,8 +200,8 @@
 					<!-- Start Single Service -->
 					<div class="single-service">
 						<i class="ti-lock"></i>
-						<h4>Sucure Payment</h4>
-						<p>100% secure payment</p>
+						<h4> Paiement sécurisé</h4>
+						<p>Paiement 100% sécurisé</p>
 					</div>
 					<!-- End Single Service -->
 				</div>
@@ -209,8 +209,8 @@
 					<!-- Start Single Service -->
 					<div class="single-service">
 						<i class="ti-tag"></i>
-						<h4>Best Peice</h4>
-						<p>Guaranteed price</p>
+						<h4>Meilleur prix</h4>
+						<p>prix garantie</p>
 					</div>
 					<!-- End Single Service -->
 				</div>
@@ -243,3 +243,9 @@
           <%@include file="footer.jsp" %>
     </body>
 </html>
+aaa
+aaa
+aaa
+aaa
+aaa
+222
