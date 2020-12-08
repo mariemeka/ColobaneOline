@@ -97,12 +97,7 @@
 			</div>
 	</section>
 	<!--/ End Contact -->
-	
-	<!-- Map Section -->
-	<div class="map-section">
-		<div id="myMap"></div>
-	</div>
-	<!--/ End Map Section -->
+
 	
 	<!-- Start Shop Newsletter  -->
 	<section class="shop-newsletter section">

@@ -33,9 +33,7 @@
                                                 Symbole d’élégance et de raffinement, chaque chemise CAFÉ COTON mêle audace et style pour des allures singulières.<br>
                                                 L’authenticité et le prestige des plus beaux cotons <br>, associés à notre désir d’excellence, révèlent des chemises au caractère unique<br>
                                                 à la créativité insoupçonnée.</p>
-                                            <div class="button">
-                                                <a href="/ColobaneOline/ProductDetails" class="btn">Achetez maintenant</a>
-                                            </div>
+                                            <br><br>
                                         </div>
                                     </div>
                                 </div>
