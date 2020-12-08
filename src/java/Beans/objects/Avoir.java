@@ -12,6 +12,11 @@ package Beans.objects;
 public class Avoir {
     protected int idcommande;
     protected int idarticle;
+    
+    protected int quantite;
+
+    public Avoir() {
+    }
 
     public Avoir(int idcommande, int idarticle) {
         this.idcommande = idcommande;
@@ -25,5 +30,25 @@ public class Avoir {
     public int getIdcommande() {
         return idcommande;
     }
+
+    public int getQuantite() {
+        return quantite;
+    }
+
+    public void setIdcommande(int idcommande) {
+        this.idcommande = idcommande;
+    }
+
+    public void setIdarticle(int idarticle) {
+        this.idarticle = idarticle;
+    }
+
+    public void setQuantite(int quantite) {
+        this.quantite = quantite;
+    }
+    
+    
+    
+    
     
 }

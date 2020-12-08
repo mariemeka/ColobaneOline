@@ -21,4 +21,12 @@
             30
         </session-timeout>
     </session-config>
+    
+    <!--> Configuration du jstl^pour qu'il soit accessible sur toutes les jsp <!-->
+     <jsp-config>
+        <jsp-property-group>
+            <url-pattern>*.jsp</url-pattern>
+            <include-prelude>/WEB-INF/taglibs.jsp</include-prelude>
+        </jsp-property-group>
+    </jsp-config>
 </web-app>

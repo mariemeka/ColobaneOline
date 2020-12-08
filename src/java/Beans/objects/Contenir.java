@@ -13,6 +13,9 @@ public class Contenir {
     protected int idarticle;
     protected int idpanier;
 
+    public Contenir() {
+    }
+
     public Contenir(int idarticle, int idpanier) {
         this.idarticle = idarticle;
         this.idpanier = idpanier;
@@ -24,6 +27,14 @@ public class Contenir {
 
     public int getIdarticle() {
         return idarticle;
+    }
+
+    public void setIdarticle(int idarticle) {
+        this.idarticle = idarticle;
+    }
+
+    public void setIdpanier(int idpanier) {
+        this.idpanier = idpanier;
     }
     
 }

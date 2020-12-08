@@ -5,8 +5,18 @@
  */
 package servlets;
 
+import Beans.objects.Article;
+import Beans.objects.Categorie;
+import Beans.objects.Souscategorie;
+import Beans.objects.Vendeur;
+import Beans.transactions.SQL_Select;
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.util.ArrayList;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
@@ -17,32 +27,6 @@ import javax.servlet.http.HttpServletResponse;
  * @author user
  */
 public class Home extends HttpServlet {
-
-    /**
-     * Processes requests for both HTTP <code>GET</code> and <code>POST</code>
-     * methods.
-     *
-     * @param request servlet request
-     * @param response servlet response
-     * @throws ServletException if a servlet-specific error occurs
-     * @throws IOException if an I/O error occurs
-     */
-    protected void processRequest(HttpServletRequest request, HttpServletResponse response)
-            throws ServletException, IOException {
-        response.setContentType("text/html;charset=UTF-8");
-        try (PrintWriter out = response.getWriter()) {
-            /* TODO output your page here. You may use following sample code. */
-            out.println("<!DOCTYPE html>");
-            out.println("<html>");
-            out.println("<head>");
-            out.println("<title>Servlet Home</title>");            
-            out.println("</head>");
-            out.println("<body>");
-            out.println("<h1>Servlet Home at " + request.getContextPath() + "</h1>");
-            out.println("</body>");
-            out.println("</html>");
-        }
-    }
 
     // <editor-fold defaultstate="collapsed" desc="HttpServlet methods. Click on the + sign on the left to edit the code.">
     /**
@@ -56,7 +40,43 @@ public class Home extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
-        processRequest(request, response);
+            
+        SQL_Select sqls = new SQL_Select();
+        
+        // Récupérations de tous les articles
+        ArrayList<Article> articles = null;
+        try {
+            articles = sqls.getAllArticles();
+        } catch (SQLException ex) {
+            Logger.getLogger(Home.class.getName()).log(Level.SEVERE, null, ex);
+        }
+        
+        // Récupérations de toutes les catégories
+        ArrayList<Categorie> categories = null;
+        categories = sqls.getAllCategories();
+        
+        // Récupérations de toutes les catégories
+        ArrayList<Souscategorie> souscategories = null;
+        souscategories = sqls.getAllSouscategories();
+       
+        //Les article dune catégorie
+        int idCategorie = 3;
+        ArrayList<Article> articlesOfCategorie = null;
+        articlesOfCategorie = sqls.getArticlesOfCatgeorie(idCategorie);
+        
+        // Les vendeur
+        ArrayList<Vendeur> vendeurs = null;
+        vendeurs = sqls.getAllVendeurs();
+        
+        
+        
+        // Envoie à la JSP
+        request.setAttribute("articles", articles);
+        request.setAttribute("categories", categories);
+        request.setAttribute("souscategories", souscategories);
+        request.setAttribute("vendeurs", vendeurs);
+        request.setAttribute("articlesOfCategorie", articlesOfCategorie);
+        this.getServletContext().getRequestDispatcher( "/WEB-INF/getTest.jsp" ).forward( request, response );
     }
 
     /**
@@ -70,7 +90,7 @@ public class Home extends HttpServlet {
     @Override
     protected void doPost(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
-        processRequest(request, response);
+        this.getServletContext().getRequestDispatcher( "/WEB-INF/postTest.jsp" ).forward( request, response );
     }
 
     /**

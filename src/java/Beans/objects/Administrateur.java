@@ -21,6 +21,10 @@ public class Administrateur {
     protected String mailadmin;
     protected String teladmin;
 
+    public Administrateur() {
+    }
+
+    
     public Administrateur(String identifiant, String password, String nomadmin, String prenomadmin, String mailadmin, String teladmin) {
         this.identifiant = identifiant;
         this.password = password;
@@ -58,6 +62,11 @@ public class Administrateur {
         return teladmin;
     }
 
+    public void setIdamin(int idamin) {
+        this.idamin = idamin;
+    }
+    
+    
     public void setIdentifiant(String identifiant) {
         this.identifiant = identifiant;
     }

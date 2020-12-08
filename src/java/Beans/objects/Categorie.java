@@ -15,6 +15,9 @@ public class Categorie {
     protected String nomcategorie;
     protected String description;
 
+    public Categorie() {
+    }
+
     public Categorie(String nomcategorie, String description) {
         this.nomcategorie = nomcategorie;
         this.description = description;
@@ -38,6 +41,10 @@ public class Categorie {
 
     public void setDescription(String description) {
         this.description = description;
+    }
+
+    public void setIdcategorie(int idcategorie) {
+        this.idcategorie = idcategorie;
     }
     
     

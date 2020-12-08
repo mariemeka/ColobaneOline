@@ -9,7 +9,7 @@ package Beans.objects;
  *
  * @author s@dmin
  */
-public class SousCategorie {
+public class Souscategorie {
     protected int idsouscategorie;
     protected int idadmin;
     protected int idcategorie;
@@ -17,7 +17,10 @@ public class SousCategorie {
     protected String nomsouscategorie;
     protected String desc_souscategorie;
 
-    public SousCategorie(int idadmin, int idcategorie, String nomsouscategorie, String desc_souscategorie) {
+    public Souscategorie() {
+    }
+
+    public Souscategorie(int idadmin, int idcategorie, String nomsouscategorie, String desc_souscategorie) {
         this.idadmin = idadmin;
         this.idcategorie = idcategorie;
         this.nomsouscategorie = nomsouscategorie;
@@ -58,6 +61,10 @@ public class SousCategorie {
 
     public void setDesc_souscategorie(String desc_souscategorie) {
         this.desc_souscategorie = desc_souscategorie;
+    }
+
+    public void setIdsouscategorie(int idsouscategorie) {
+        this.idsouscategorie = idsouscategorie;
     }
     
     

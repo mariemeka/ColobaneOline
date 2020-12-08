@@ -5,6 +5,8 @@
  */
 package Beans.objects;
 
+import java.sql.Timestamp;
+
 /**
  *
  * @author s@dmin
@@ -15,6 +17,10 @@ public class Commande {
     
     protected boolean status;
     protected int prixtotal;
+    protected Timestamp dateCommande;
+
+    public Commande() {
+    }
 
     public Commande(int idclient, boolean status, int prixtotal) {
         this.idclient = idclient;
@@ -31,6 +37,18 @@ public class Commande {
         return idclient;
     }
 
+    public Timestamp getDateCommande() {
+        return dateCommande;
+    }
+
+    public void setIdcommande(int idcommande) {
+        this.idcommande = idcommande;
+    }
+
+    public void setDateCommande(Timestamp dateCommande) {
+        this.dateCommande = dateCommande;
+    }
+    
     public void setIdclient(int idclient) {
         this.idclient = idclient;
     }

@@ -13,6 +13,10 @@ public class Panier {
     protected int idpanier;
     protected int idclient;
 
+    public Panier() {
+    }
+
+    
     public Panier(int idclient) {
         this.idclient = idclient;
     }
@@ -23,6 +27,14 @@ public class Panier {
 
     public int getIdpanier() {
         return idpanier;
+    }
+
+    public void setIdpanier(int idpanier) {
+        this.idpanier = idpanier;
+    }
+
+    public void setIdclient(int idclient) {
+        this.idclient = idclient;
     }
     
     

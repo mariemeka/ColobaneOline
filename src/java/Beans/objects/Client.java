@@ -18,6 +18,9 @@ public class Client {
     protected String telclient;
     protected String motdepasseclient;
 
+    public Client() {
+    }
+
     public Client(String nomclient, String prenomclient, String adresseclient, String telclient, String motdepasseclient) {
         this.nomclient = nomclient;
         this.prenomclient = prenomclient;
@@ -68,6 +71,10 @@ public class Client {
 
     public void setMotdepasseclient(String motdepasseclient) {
         this.motdepasseclient = motdepasseclient;
+    }
+
+    public void setIdclient(int idclient) {
+        this.idclient = idclient;
     }
     
     

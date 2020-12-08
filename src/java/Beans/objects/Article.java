@@ -31,6 +31,11 @@ public class Article {
         this.details = details;
     }
 
+    public Article() {
+    }
+    
+    
+
     public int getIdarticle() {
         return idarticle;
     }
@@ -89,6 +94,10 @@ public class Article {
 
     public void setDetails(String details) {
         this.details = details;
+    }
+
+    public void setIdarticle(int idarticle) {
+        this.idarticle = idarticle;
     }
     
     

@@ -20,6 +20,9 @@ public class Vendeur {
     
     protected boolean status;
 
+    public Vendeur() {
+    }
+
     public Vendeur(String nomvendeur, String prenomvendeur, String adressevendeur, String telvendeur, String motdepassevendeur, boolean status) {
         this.nomvendeur = nomvendeur;
         this.prenomvendeur = prenomvendeur;
@@ -81,5 +84,10 @@ public class Vendeur {
         this.status = status;
     }
 
+    public void setIdvendeur(int idvendeur) {
+        this.idvendeur = idvendeur;
+    }
+    
+    
     
 }
