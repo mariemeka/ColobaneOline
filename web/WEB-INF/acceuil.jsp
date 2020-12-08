@@ -14,6 +14,7 @@
 
     </head>
     <body>
+        
         <%@include file="menu.jsp" %>
         <!-- Slider Area -->
         <section class="hero-slider">
@@ -28,6 +29,7 @@
                                 <div class="row">
                                     <div class="col-lg-7 col-12">
                                         <div class="hero-text">
+                                       
                                             <h1><span>JUSQU'À 50% DE RÉDUCTION</span>Chemise pour homme</h1>
                                             <p>La chemise : l’essentiel du vestiaire masculin<br>
                                                 Symbole d’élégance et de raffinement, chaque chemise CAFÉ COTON mêle audace et style pour des allures singulières.<br>

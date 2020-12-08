@@ -5,8 +5,12 @@
  */
 package com.admin.servlet;
 
+import Beans.objects.Categorie;
+import Beans.objects.Souscategorie;
+import Beans.transactions.SQL_Select;
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.util.ArrayList;
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
@@ -44,6 +48,16 @@ public class Acceuil extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
+        SQL_Select sqls = new SQL_Select();
+        // Récupérer toutes les catégories
+        ArrayList<Categorie> categories = null;
+        categories = sqls.getAllCategories();
+        
+        // récupérer toutes les sous catégories
+        ArrayList<Souscategorie> souscategories = null;
+        souscategories = sqls.getAllSouscategories();
+        
+        request.setAttribute("listeCategories", categories);
         this.getServletContext().getRequestDispatcher("/WEB-INF/acceuil.jsp").forward(request, response);
     }
 

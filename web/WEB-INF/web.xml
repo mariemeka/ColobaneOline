@@ -8,6 +8,7 @@
         <servlet-name>Deconnexion</servlet-name>
         <servlet-class>servlets.Deconnexion</servlet-class>
     </servlet>
+    <servlet>
         <servlet-name>cosmetique</servlet-name>
         <servlet-class>com.admin.servlet.cosmetique</servlet-class>
     </servlet>
@@ -63,10 +64,14 @@
         <servlet-name>InsertionProduits</servlet-name>
         <servlet-class>com.vendeur.servlet.InsertionProduits</servlet-class>
     </servlet>
+    <servlet>
+        <servlet-name>Home</servlet-name>
+        <servlet-class>servlets.Home</servlet-class>
+    </servlet>
     
     <servlet-mapping>
         <servlet-name>Acceuil</servlet-name>
-        <url-pattern>/Acceuil</url-pattern>
+        <url-pattern>/</url-pattern>
     </servlet-mapping>
     <servlet-mapping>
         <servlet-name>cosmetique</servlet-name>
@@ -127,7 +132,7 @@
     <servlet-mapping>
         <servlet-name>InsertionProduits</servlet-name>
         <url-pattern>/InsertionProduits</url-pattern>
-
+    </servlet-mapping>
     <servlet-mapping>
         <servlet-name>InsertionProduits</servlet-name>
         <url-pattern>/InsertionProduits</url-pattern>
@@ -135,7 +140,10 @@
     <servlet-mapping>
         <servlet-name>Deconnexion</servlet-name>
         <url-pattern>/Deconnexion</url-pattern>
-
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>Home</servlet-name>
+        <url-pattern>/list</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>
